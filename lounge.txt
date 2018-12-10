@@ -11,6 +11,7 @@
 %C2%A330-tickets-for-rolling-stones-at-murrayfield.30992
 %C2%A3300k-beach-hut.38946
 %C2%A34-more-for-litre-of-grouse-in-scotland-than-in-england.55902
+%C2%A340-to-go-to-the-cinema.56928
 %C2%A35-000-donation-to-help-build-edinburgh-tribute-to-polish-war-hero.35359
 %C2%A350-off-energy-service-provider.8050
 %C2%A375-fine-for-wasting-hospital-time.22958
@@ -75,10 +76,12 @@
 12a-film-rating.20487
 12th-parades-2018-where-we-all-headed.36482
 13-000-police-and-knife-detecting-arches-for-the-notting-hill-carnival.43459
+13-brave-apprentice-boys.57216
 14-year-old-boy-shot-in-london.22905
 14th-march.22881
 15-000-knife-incidents-in-one-year-in-london.51255
 15-30-yarmouth.33645
+15-wallopers-convicted-for-terrorism-offences.57686
 150-hours-community-service.26725
 16-is-the-tipping-point-after-that-there-is-no-way-back.46912
 16-year-old-brother-has-been-taking-coke.11684
@@ -262,6 +265,7 @@ a-bit-of-klass-on-a-friday-for-the-lounge.18282
 a-bittersweet-life-movie.38099
 a-bizarre-letter-from-a-debt-collecting-agency.34172
 a-black-superman.46384
+a-bog-in-your-street-would-you-object.57191
 a-bookie-blunder.30370
 a-boozer-wae-nae-telly.55508
 a-boy-and-a-priest-south-park.51166
@@ -320,6 +324,7 @@ a-purchase-to-reflect-on.17692
 a-question-about-finance.41928
 a-question-for-a-roofer.55524
 a-quiet-place-to-read.49831
+a-rangers-christmas.57412
 a-reminder.5910
 a-roll-and-banana.24519
 a-samoan-just-knocked-out-several-119lb-antifa-soldiers-for-no-reason-just-for-pepper-spraying.19421
@@ -377,6 +382,7 @@ abandoning-islam-for-a-life-in-porn.40408
 abbey-inn-paisley.26370
 abbott-on-iraq.25468
 abc-cancels-roseanne.32120
+aberdeen-bypass-finally-opening-stonehaven-craibstone.56982
 aberdeen-bypass-stonehaven-to-dyce-section.10795
 aberdeen-bypass-stonehaven-to-dyce-section.22098
 aberdeen-bypass.5108
@@ -537,6 +543,7 @@ air-traffic-controllers-a-c-geaks.32741
 airbnb-anyone-used-it.15122
 aircraft-and-helicopter-in-mid-air-crash.9640
 aircraft-skids-off-runway-and-dangles-on-cliff.16022
+airdrie-parking.56899
 airdrie-rf.21516
 airdrie-rsc.21518
 airdrie-war-memorial-6am-11-11-18.54272
@@ -582,8 +589,10 @@ alcudia.20421
 alcudia.35290
 aldi-and-lidl-products-you-prefer.17671
 aldi-big-daddy-rump-steak.31848
+aldi-nord-or-aldi-sud.57457
 aldis-tomahawk-steak.28714
 alert-notification-emails.13218
+alesha-macphail-court-case.57671
 alex-jones-banned-by-facebook-youtube-apple-and-spotify.40130
 alex-jones-screaming-at-pile-of-shit.51749
 alex-mcdonald.9169
@@ -668,6 +677,7 @@ amazing-performance-by-eminem-on-saturday-night-live.9864
 amazing-what-investigative-journalism-can-achieve.19746
 amazon-alexa-and-her-skills.55489
 amazon-alexa-app.24576
+amazon-alexa-help.56857
 amazon-alexa-s-one-of-us.23011
 amazon-all-or-nothing-documentaries.38629
 amazon-drivers-stealing-pets.28769
@@ -692,6 +702,7 @@ amazon-kids-fire-tablet.34521
 amazon-music-unlimited.25854
 amazon-music.14006
 amazon-pantry-much-cheapness.55782
+amazon-pantry.57605
 amazon-prime-day.37096
 amazon-prime-is-it-worth-it.9729
 amazon-prime-new-series-homecoming.53141
@@ -754,6 +765,7 @@ an-outstanding-christmas-song.13305
 ana-de-armas.54154
 ana-matronic.15093
 analysing-congestion-on-wifi-channels.46294
+anas-sarwar-a-big-rangers-fan.56972
 anatomy-of-a-killing.48085
 ancestry-dna.14012
 ancestry-dna.5396
@@ -983,6 +995,7 @@ any-equestrians-on-here.34353
 any-excel-experts-in.16746
 any-excel-wizzards-converting-kb-mb-gb-tb-to-gigabytes.54447
 any-experience-of-cancelling-sky-in-contract.29535
+any-experts-on-drivers-hours-a-pay-legality.56977
 any-exterior-painters-on-here.39708
 any-fans-of-wooden-shjips-moon-duo.47488
 any-fellow-bears-work-at-mossmorran.35261
@@ -1019,6 +1032,7 @@ any-huawei-p20-pro-users.30561
 any-i-pod-experts-on.28656
 any-insurance-experts-on-goskippy-insurance.1602
 any-insurance-salesmen-women-on-here.9467
+any-iphone-x-deals-going-about.57232
 any-it-contractors-on.21525
 any-it-experts-in-the-lounge.47006
 any-kate-bush-fans-cloudbusting-heading-your-way.30204
@@ -1051,6 +1065,7 @@ any-other-foster-cares-on-here-tax-help.2317
 any-painter-and-decorators-on.32821
 any-personal-trainers-on-i%E2%80%99ve-got-a-question.34643
 any-pest-control-experts-here.25300
+any-phone-experts-on-here.56739
 any-photographers-able-to-help-knightswood-st-margarets-church.34859
 any-photoshop-experts-able-to-assist.31565
 any-photoshop-gurus-help-me-out-with-a-basic-banner.20337
@@ -1087,6 +1102,7 @@ any-sky-package-deals.45658
 any-sky-tv-employees-on.47317
 any-small-business-owners-here.21897
 any-software-developers-out-there.4042
+any-solder-rework-companies-on-here.57170
 any-southside-bears-recommend-a-good-tv-repairman.50279
 any-sparks-on.50596
 any-sparks-on.51071
@@ -1138,6 +1154,7 @@ anybody-like-sushi.16768
 anybody-make-their-own-cider.45619
 anybody-manscape.17656
 anybody-need-garden-maintenance-slabbing-fencing-etc-done.5708
+anybody-remember-goldberg-from-the-mighty-ducks.57658
 anybody-seen-daddys-home-2-yet.10834
 anybody-trying-for-ryder-cup-2018-tickets.4924
 anybody-used-servicing-stop-for-their-car.46439
@@ -1183,6 +1200,7 @@ anyone-else-get-a-glasgow-bus-lane-fine-on-the-28th-october.54188
 anyone-else-going-to-see-extreme-tonight.12848
 anyone-else-hate-halloween.52787
 anyone-else-have-job-when-they-were-at-school.38038
+anyone-else-having-a-bad-day.56891
 anyone-else-having-a-drink.6764
 anyone-else-having-issues-with-sky-broadband.14318
 anyone-else-having-major-issues-with-pop-ups-today.15739
@@ -1226,6 +1244,7 @@ anyone-having-issues-with-ff-on-iphone.14641
 anyone-having-problems-with-o2.16148
 anyone-having-trouble-with-ebay-paypal-tonight.7009
 anyone-having-trouble-with-the-site.49521
+anyone-heading-to-def-leppard-next-week.57620
 anyone-hear-church-of-scotland-wanting-feedback.31078
 anyone-heard-of-this-group-probus.50111
 anyone-help-clean-files-on-a-website.14126
@@ -1298,6 +1317,7 @@ anyone-running-london-marathon-next-year.3419
 anyone-seen-the-dualers.56379
 anyone-self-employed.16749
 anyone-sell-life-insurance.22641
+anyone-send-their-kid-to-additional-needs-school.57715
 anyone-signed-up-for-the-umrah-package.41577
 anyone-sold-clothing-online-before.11200
 anyone-speak-fluent-french.19616
@@ -1319,6 +1339,7 @@ anyone-used-a-broadband-sat-tv-mobile-phone-comparison-site.22028
 anyone-used-auxilis-before.13526
 anyone-used-boxt-for-a-new-combi-boiler.25295
 anyone-used-chips-away-for-car-scratch-repairs.3940
+anyone-used-gearbest.57028
 anyone-used-mobiles-co-uk.30023
 anyone-username-affordable-mobiles.34797
 anyone-watch-man-down-on-c4.11129
@@ -1384,6 +1405,7 @@ applying-to-the-police-force.19728
 appointment-diaries-electronic-and-or-paper.47340
 apprentice-pranks.16190
 apprentice-windups.54294
+apprenticeship-complete.57332
 apprenticeship.23930
 apu-being-written-out-the-simpsons.52286
 apu-nahasapeemapetilon-to-be-axed-from-the-simpsons.52369
@@ -1413,6 +1435,7 @@ are-there-any-engineers-on-here.26847
 are-there-any-engineers-on-here.37475
 are-there-different-ticketing-laws-in-scotland.2631
 are-there-orthodontists-on-here.51696
+are-tv-companies-dumbing-down-to-sell-next-gen.57378
 are-we-about-to-have-a-new-false-flag-chemical-attack-in-syria.43497
 are-we-all-ready-for-a-rabble-at-speakers-corner-today.23294
 are-we-allowed-to-post-items-for-sale-on-the-forum.37052
@@ -1532,6 +1555,7 @@ audi-servicing-specialists.16968
 audi-tt-anyone-that%E2%80%99s-not-a-hairdresser-had-or-have-one.54926
 audible-books.15083
 audio-description-on-vivo-box.22084
+audiobooks-podcast-apps.57333
 audiobooks-suggestions.5959
 audiobooks.51154
 auf-wedersehen-pet-s2.21604
@@ -1556,11 +1580,13 @@ australian-archbishop-philip-wilson-guilty-of-concealing-child-sex-abuses.31311
 australian-band-dmas.27144
 australian-cricket-captain-steve-smith-on-ssn-there.24199
 australian-farm-work.23019
+australian-pink-floyd-presale-links-and-codes.56842
 australian-royal-commission-into-child-abuse-published.13379
 australian-school-apologises-for-suggestive-saint-statue.10143
 australian-state-a%C4%BAlows-assisted-dying-law.10990
 austria-getting-tough-on-extremists.33132
 authors-personalities-that-keep-you-sane.9102
+auto-correct.56973
 auto-electrician-cambuslang.8154
 autobiographies.20322
 autocad-for-students.19527
@@ -1577,6 +1603,7 @@ avatars-with-a-little-green-cap.55761
 avatars.28599
 avc-pension-advice.8643
 avenged-sevenfold.17932
+avengers-endgame-trailer-is-here.57241
 avengers-infinity-war-new-trailer.23059
 avengers-infinity-war-trailer.11026
 avengers-infinity-war.27401
@@ -1615,6 +1642,7 @@ ba-business-europe.19857
 ba-flight-269-london-to-la.53654
 ba-transatlantic-business-class.45651
 baa-baa-woolly-sheep.4940
+baby-its-cold-outside-being-pulled-from-some-canadian-radio-stations.57357
 baby-murderer-gets-18-years.8747
 baby-shark-dance.45389
 babylon-berlin.39676
@@ -1627,6 +1655,7 @@ back-pain-and-bad-posture-only-abc-has-worked-for-me.17828
 back-pain-help.9491
 back-pain-its-a-pain-in-the-back.44020
 back-to-the-future.20475
+back-to-the-gym-tomorrow.57601
 back-to-work-tomorrow.39886
 backflipping-fbi-agent-accidentally-shoots-a-man-in-bar.32689
 backlash-against-ea-battlfefont-2.9354
@@ -1682,6 +1711,7 @@ bank-of-england-base-rate-held-at-0-5.29873
 bank-of-scotland-ppi-claim.36013
 bankruptcy-question.40843
 banned-dove-advert.5413
+banning-water-off-a-dugs-back.56784
 bannisters-finnieston.12662
 bar-brawler-gets-chaired.40135
 barbara-bush-passes-away.26411
@@ -1707,6 +1737,7 @@ barry-brennell-thread.16855
 barry-chuckle-died.39685
 barry-chuckle-dies.39687
 barry-chuckle.39686
+barry-mcelduff.57217
 barry-normans-brand-new-film-review-thread.5173
 barry-sky-atlantic.32736
 barrymore-pool-inquest-blocked.17138
@@ -1740,6 +1771,7 @@ battlefield-v.55344
 battlestar-galactica-is-it-that-good.23424
 battlestar-galactica.31100
 bauer-media-just-took-a-big-hit.1980
+bauhaus-in-glasgow-wednesday-night.56809
 bay-city-roller-alan-longmuir-dies.35538
 bay-city-rollers.21355
 bay-leaves-whats-the-point.54823
@@ -1794,6 +1826,7 @@ bbc2-northern-ireland-on-sunday-nights-hame-a-series-about-the-ulster-scots-lega
 bbc2-now-heart-transplant.30489
 bbc2-now-newsnight-brexit-views-from-irish-republicans.30654
 bbc4-11-30-tonight-from-scotland-with-love.10874
+bbc4-at-11-30pm-tonight-professor-alice-roberts-presents-the-science-of-sex.56910
 bbc4-the-beginning-and-end-of-the-universe.11221
 bbc4-the-shipyards-of-the-clyde.17749
 bce-ce.49622
@@ -1919,6 +1952,7 @@ berlin-where-to-go.18791
 berlin.1560
 berlin.32928
 berlin.55704
+berlin.57069
 berlin.9009
 bernadette-from-the-big-bang-theory.9020
 bernie-gunther-ist-kaput.47060
@@ -2002,6 +2036,7 @@ best-cheapest-ferry-to-get-to-northern-ireland.44238
 best-chicken-wings-in-glasgow.17643
 best-chinese-in-paisley-renfrew-area.40894
 best-chippy-in-glasgow.16373
+best-christmas-night-out-story.56989
 best-city-centre-pub-grub.40603
 best-coastal-town-south-west-scotland.35358
 best-combinations-of-tv-internet.17562
@@ -2017,6 +2052,7 @@ best-emulators-for-mobile.9876
 best-estate-agent-for-house-selling.10916
 best-euro-rates-today-collection-north-glasgow.45844
 best-foreign-ex-glasgow-centre.4816
+best-free-parking-for-o2-academy.56839
 best-free-social-media-dashboard.44310
 best-free-vpn.12862
 best-free-vpn.18374
@@ -2056,10 +2092,12 @@ best-non-low-alcohol-beers.51697
 best-non-samsung-android-phone.8210
 best-of-the-best-anyone-play-this.44290
 best-online-business-card-service.4260
+best-online-storage-for-pictures.57283
 best-options-for-exchanging-%C2%A3-to.3352
 best-par-for-a-beer-in-the-sun-city-centre.36001
 best-pay-monthly-sim-only-deals-available-calls-and-data.1857
 best-pcp-company.8665
+best-petrol-station-for-fuel-quality.57150
 best-pizza-in-edinburgh.52675
 best-pizza-in-glasgow.52644
 best-place-for-a-pint-in-siverburn.13990
@@ -2210,6 +2248,7 @@ big-issue-sellers-v-full-time-employment.25461
 big-jesy-from-little-mix.8114
 big-jesy-in-fawkirk-tonight.38263
 big-kid-circus.25009
+big-mouth-netflix.57251
 big-narstie-on-the-crystal-maze.33272
 big-narstie.45643
 big-nigella.12095
@@ -2225,6 +2264,7 @@ biggest-rise-in-poverty-since-the-thatcher-years.38010
 biggie-smalls-bit-my-balls.50758
 biggie-vs-tupac.38510
 bigging-yourself-up-on-an-application-form.24159
+bigotfest-harwoods-greenock-21st-december.57157
 bigotry-in-the-work-place.9081
 bigots-liars-of-worlds-most-depraved-organisation-1-v-0-orange-lodge.43160
 bike-trainer-free.53063
@@ -2294,9 +2334,11 @@ black-panther.20202
 black-screen.52285
 black-soot-in-renfrew.32199
 black-stone-cherry-uk-tour-dec-18.32975
+black-stone-cherry.57226
 black-superman-2.46419
 black-tie-event.15781
 blackberry-smoke.53308
+blackfishing.56997
 blackfly-is-latest-attempt-at-flying-car.36646
 blackfriars-car-park-glasgow.4688
 blacklisted-phone.53343
@@ -2349,6 +2391,7 @@ bluebells-bar.12990
 bluenose-plumber-reqd.44262
 blueprint-for-armaggedon-ww1.52951
 bluetooth-headphones-on-ipad-audio-lag.34547
+bluetooth-headphones.57646
 blur-or-oasis-who-was-better.51684
 bmw-3-series-330d-xdrive-m-sport-4dr-step-auto-3-0.50288
 bmw-and-halford-ads-banned-by-total-3-complaints.29742
@@ -2421,6 +2464,7 @@ boney-m.55171
 bonfires-2018.36473
 bong-apetit-on-viceland.7978
 bonkers-bus-stretch-limo-or-hummer-help.31518
+bonnybridge-to-falkirk-taxi.57107
 boobs-or-bum.17618
 boobstock-this-weekend.44666
 book-binders.33983
@@ -2613,6 +2657,7 @@ british-airways.34606
 british-comic-swap-selling-meet.46684
 british-documentaries.4742
 british-gas-homecare-boiler-advice.31212
+british-gas-smart-meters.57619
 british-israeli-and-us-flags-burnt-on-bogside-bonfire.41905
 british-justice-on-its-knees.56038
 british-legion-looking-for-new-members.43864
@@ -2958,6 +3003,7 @@ capita-in-trouble.18030
 captain-marvel.47076
 caption-this-with-a-funny-sexual-tone.36505
 car-accident-damage.27169
+car-accident-is-it-worth-going-through-your-insurance.56801
 car-accident-police-cctv-question.10299
 car-allowance-and-mileage.37537
 car-allowance-through-work.37102
@@ -2986,6 +3032,7 @@ car-hire-excess-insurance.31327
 car-hire-hold-excess-money.46528
 car-hire-question.15073
 car-hire.37860
+car-insurance-companies-offering-ridiculous-quotes.57106
 car-insurance-for-your-offspring.6261
 car-insurance-query.12136
 car-insurance-question-wife-has-been-in-an-accident.25060
@@ -2996,6 +3043,7 @@ car-insurance.27102
 car-insurance.33527
 car-insurance.6135
 car-issue.10846
+car-lease-advice.57276
 car-lease-how-long.14780
 car-lease-return.30757
 car-leasing-vs-purchase.5991
@@ -3092,6 +3140,7 @@ cars-torched-across-sweden.41639
 cartoon-%E2%80%9Crick-morty%E2%80%9D-creator-deletes-twitter-after-fake-child-abuse-video-goes-viral.37953
 carwow-is-it-what-it-seems.52671
 cash-converters-anyone-ever-use.22974
+cash-for-kids.57391
 cash-in-hand-jobs.2108
 cash-machines-hamilton-area.10604
 cash-out-disasters.51799
@@ -3119,6 +3168,7 @@ catfish-and-the-bottlemen-at-bella-park-tonight.43516
 catherine-tyldesley-off-coronation-st.2241
 catheter-ablation.36296
 cathkin-braes-golf-club.20839
+catholic-church-scotland-free-to-cover-up-crime.57235
 catholic-league-call-south-park-creators-cowards.49472
 catholic-majority-in-northern-ireland-by-2021.26660
 catholic-priests-now-fiddling-church-donations.23977
@@ -3148,6 +3198,7 @@ celebrities.13839
 celebrity-big-brother-thread.41985
 celebrity-big-brother.14916
 celebrity-death-sweep-2k18.13847
+celebrity-deathmatch-returning.57631
 celebrity-hunted.5528
 celebrity-island-with-bear-grylls.49013
 celebrity-juice-kelly-brook.6383
@@ -3188,6 +3239,7 @@ change-in-career.34118
 change-savings-jar.38982
 change-to-income-rates-and-bands.5447
 changing-baby-milk.48285
+changing-banks-good-deals.57313
 changing-bathroom-taps-how-easy-is-it.6091
 changing-eating-habits-of-a-lifetime.38851
 changing-electricity-supplier-to-bulb.52171
@@ -3345,6 +3397,7 @@ christine-keeler-dies.11740
 christine-keeler-dies.11744
 christmas-1.52119
 christmas-and-new-year-tips.14665
+christmas-belles-ding-dong.57437
 christmas-booze-deals.11840
 christmas-booze-thread.13405
 christmas-decorations-up-already.54970
@@ -3586,6 +3639,7 @@ conservatory-roof-ceiling-blinds.35126
 console-help-for-kids-birthday.50591
 consolidating-debt.2044
 conspiracy-theories-that-you-actually-believe.28587
+constantly-having-to-clear-your-throat.57125
 contact-lens-where-to-buy.34615
 contact-lens.32606
 contact-lenses-online.26797
@@ -3683,6 +3737,7 @@ could-someone-bump-the-photography-thread-please.27258
 could-the-sex-scandal-bring-down-the-gov.8389
 could-this-be-the-shortest-ever-council-administration-ever.3680
 could-you-all-please-take-2-minutes-to-sign-this.17190
+could-you-survive-a-bid-for-public-life-based-on-your-online-past.57222
 council-equal-pay-claim.51867
 council-neighbours.43813
 council-send-us-workers-home-due-to-weather-now-say-want-time-back.21070
@@ -3798,6 +3853,7 @@ cruises-first-time.19053
 cruising-the-caledonian-canal.15203
 cruising-the-med.34843
 cruising-thread.4634
+crunchy-caramel-m-ms.57705
 crypto-investors-of-the-lounge.2198
 cryptocurrency-investor-thread.4581
 crystal-rangers-whisky-glass.11607
@@ -3840,11 +3896,13 @@ curry-frenzy.5928
 curry-on-the-hill.20350
 curry-recipes.24291
 curry-spice-kits.42496
+curryfrenzy-com.56900
 curse-of-oak-island-history-channel.15940
 cursed-families.36172
 cursor-bouncing-about-when-typing-on-here.27384
 curved-tv.54228
 cushman-wakefield-glasgow.48537
+custom-football-scarf.56880
 customer-surveys-data.47670
 customs-union-good-or-bad.27336
 cutting-scotia-floor-beading-tips.20711
@@ -4018,6 +4076,7 @@ death-noodles.30770
 death-plunge-girl-from-west-lothian.17928
 death-row-2018-trevor-mcdonald.18225
 death-threats-cos-a-tunnocks-teacake-was-put-into-space.5984
+debbie-harry-vs-wendy-james.57713
 debenhams-calls-in-kpmg-to-assess-future-options.46071
 debt-advice.50148
 decent-android-phone.29215
@@ -4055,6 +4114,7 @@ declining-a-job-offer.51724
 decorators-glasgow.16200
 decs-saturday-night-take-away.24511
 deep-fried-heaven.42775
+deep-fried-xmas-dinner.57597
 deep-purple-hydro.9842
 deep-state.25121
 def-leppard-uk-tour.16611
@@ -4099,6 +4159,7 @@ dental-treatment-abroad.18583
 dental-work.4941
 dentist-charges.45859
 denver-bears-wee-bit-of-advice-please.15596
+deodorant-recommendations.57448
 depeche-mode.51150
 depressed-dog.14948
 depressing-songs.8342
@@ -4114,6 +4175,7 @@ derry-girls-night-out-at-belfasts-slut-disco.17097
 derry-girls-northern-irish-comedies-and-unionism.18600
 derry-girls.17417
 derry-priest-suggests-st-patrick%E2%80%99s-day-should-be-moved-to-the-12-of-july.23686
+designer-clothing-for-tall-youths-differing-sizes.57396
 designer-fakes.26013
 desktop-computer-internet-advice.53403
 despicable-people-you-admire-for-whatever-reason.16731
@@ -4125,6 +4187,7 @@ detection-of-extra-galactic-planets.18634
 detoxing.39063
 detroit-gangbangers-death-by-instagram.30517
 deuce-hbo-series.1968
+deviants-of-the-lounge.57139
 devils-knot-film.20403
 devo-talking-heads.36427
 devon-town-has-rude-awakening-after-vandals-rearrange-huge-tour-of-britain-artwork-overnight.45650
@@ -4157,10 +4220,12 @@ dieselgate.49876
 difference-between-fm-touch-and-mobile.20064
 differences-between-iphones-6-and-7.24209
 digging-through-the-archives-of-purrrrr-the-premier-cat-newsletter-of-the-1980s.6272
+digital-aerial-advice.57340
 digital-devotees-catholic-church-installs-card-payments-units.16912
 digital-indoor-aerials.15622
 digital-interviews.8048
 digs-near-the-hydro.48335
+dimebag-darrell-pantera-14-years-today-gone.57404
 dingbros.8480
 dinner-problems-before-instagram.23651
 dinner-when-hungover.3749
@@ -4183,8 +4248,10 @@ disgusting-from-remainers.51423
 disgusting-human-behaviour.41343
 disgusting-things-youve-seen.50985
 dishwasher-advice.15211
+dishwasher-not-draining.56944
 dishwasher-repairs.26729
 dishwasher-scratching-plates-and-tumblers.30616
+dislocated-jaw.56942
 dismantling-a-garage-that-may-have-asbestos.4225
 disney-buy-fox-assets-including-39-stake-in-sky.12807
 disney-florida.28589
@@ -4220,6 +4287,7 @@ dj-for-parties.40547
 dj-khaled%E2%80%99s-new-album-will-drop-soon-and-i-for-one-cannot-wait.47042
 dj-required-uregently.17366
 dma%E2%80%99s-at-the-barras-tonight.31396
+dmas-at-the-barrowlands-this-weekend.57197
 dmas-australian-mtv-unplugged-set-from-friday-night.54948
 dmas-barrowlands-gigs-in-december.46560
 dmas-gig-at-motherwell-next-week.10234
@@ -4235,6 +4303,7 @@ do-i-owe-our-landlady-for-cats%E2%80%99-damage-to-chairs.35621
 do-paddy-power-still-pay-out-when-teams-go-2-0-up.25174
 do-too-many-people-go-to-university.9293
 do-vodafone-offer-home-tv-satellite-packages.55268
+do-we-have-any-jewellers-on-ff.57292
 do-we-have-free-will.24607
 do-you-believe-in-god.37873
 do-you-did-you-ever-buy-music-magazines.31370
@@ -4427,6 +4496,7 @@ drug-dealer-arrested-after-mistaking-police-car-for-taxi.13840
 drug-suspect-on-toilet-strike.20464
 drug-users-in-scotland-consume-most-cocaine-in-one-session.29661
 drums-and-drummers.30650
+drunk-people-at-gigs.57432
 drunk-rugby-player-adds-all-52-women-from-his-phone-book-into-a-whatsapp-group-called-doms-angels.23281
 drunk-rugby-players.32666
 drunken-butcher.14327
@@ -4444,6 +4514,7 @@ dual-sim-mobile-phones-yes-or-no.40050
 dubai-based-bears.23496
 dubai-cig-prices.50616
 dubai-currency.34525
+dubai-international-airport-hotel.57309
 dubai-to-go-or-not-to-go.3769
 dubbed-john-woo-movies.28316
 dublin-airport-to-city-centre.15705
@@ -4492,6 +4563,7 @@ dylans-self-portrait.43572
 dynamic-earth-free-entry.9871
 dynamo-the-magican-not-looking-well.24056
 dynasties-david-attenboroughs-new-documentary.43957
+dyson-hairdryer-worth-%C2%A3300.56863
 dyson-servicing.24316
 e-bikes-are-they-worth-it.35477
 e-cigs.30006
@@ -4530,8 +4602,10 @@ east-of-scotland-orange-walk.35046
 eastenders.13968
 easter-holidays.15348
 easter-monday-working-it.24609
+easterhouse-bears.57258
 eastwood-leisure.9443
 easy-jet-flights.43968
+easy-to-make-healthy-meals.56778
 easyjet-carry-on-bags-suit-carrier.33615
 easyjet-hand-luggage.15565
 easyjet-summer-2018-schedule.1656
@@ -4560,6 +4634,7 @@ ed-fringe-2018.38035
 ed-king-lynyrd-skynyrd.43252
 ed-moloney-troubles-legacy-will-pursue-new-garda-commissioner.35093
 ed-pratts-world-trip-on-a-unicycle.2901
+ed-sheehan-and-beyonc%C3%A9-spark-gender-standards-debate.56897
 ed-sheeran-sued-over-marvin-gayes-lets-get-it-on-copying.35265
 ed-sheeran-tickets-how-strict-are-they.29859
 ed-stafford.18514
@@ -4644,6 +4719,7 @@ electric-boffins-of-the-lounge-help.19364
 electric-dreams-the-hood-maker.4191
 electric-frog-2018.17315
 electric-frog-pressure-riverside-festival-glasgow.31423
+electric-golf-trolley.57287
 electric-heating.19556
 electric-heating.45471
 electric-razors.14710
@@ -4670,6 +4746,7 @@ elementary.47132
 elephone-p8-mobile-phone-not-charging.34600
 eleven-sports-to-show-pga-championship.37902
 eleven-sports.48449
+elf-on-the-shelf.57424
 elite-dangerous.18119
 elite-energy-cavity-insulation.26663
 elizabeth-hurley-again.54792
@@ -4683,6 +4760,7 @@ elton-john-pre-sale.54769
 elton-john-tour-dates-in-the-uk-announced.53833
 elton-john.37055
 elton-jong.3469
+elvis-and-his-elves.57410
 elvis-beater-fire-extinguisher-incident.26495
 email-about-attempted-hacks-of-paypal-accounts.13912
 email-address-for-gcc-hr-department.33027
@@ -4695,6 +4773,7 @@ embra-bears-best-steakhouse.20261
 embrace.24142
 emergency-alarm-experts.23140
 emergency-electrician-in-ek.50346
+emergency-gas-engineer.57339
 emergency-wives-xmas-gift-thread-heated-throw.13910
 emigrating-to-the-u-s.46977
 emily-ratajkowski.39036
@@ -4706,6 +4785,7 @@ eminem-kamikaze-album.45623
 eminem-killshot-mgk-diss-track-reply.46625
 eminem-lambasts-trump-in-freestyle-rap.5586
 eminem-revival-drops-today.12944
+emirates-a380-glasgow-dubai.57171
 emirates-edinburgh.29542
 emirates-luggage-allowance-from-glasgow-airport.31179
 emirates-or-british-airways-long-haul.18147
@@ -4732,6 +4812,7 @@ en-suite-renovation.51374
 enable-horse.4655
 enchanted-forest-pitlochry.5106
 end-of-days.21639
+end-of-days.56871
 end-of-great-war-parade-glasgow-20-10.51232
 end-of-mortgage-question.39378
 end-of-tenancy-deep-clean-rough-cost.3982
@@ -4765,6 +4846,7 @@ eric-bristow-dead.24990
 eric-clapton-life-in-12-bars-now-available-on-bbc-iplayer.35500
 eritrean-cycling-festival-in-manchester.34154
 erm-first-holy-communion-gift.32749
+escalating-tensions-in-the-balkans.57382
 escape-from-new-york.33568
 escape-to-victory.13828
 escort-needs-a-bit-of-work-on-it.31437
@@ -4842,6 +4924,7 @@ ex-celtic-coach-mccafferty-jailed-for-child-sex-abuse.41350
 ex-ubs-trader-kweku-adoboli-has-been-deported.54893
 example-of-the-liberal-progressive-agenda.3442
 excel-formula-help-needed.20225
+excel-help.57672
 excellent-documentary-on-the-middle-east.33368
 excercise-bike-smells-of-weed.46467
 excluding-from-school.26723
@@ -4882,6 +4965,7 @@ extreme-heavy-metal.29891
 extreme-neck-pain.32172
 extreme-weather.35214
 eyesight-as-you-get-older-laser-surgery.21767
+f-is-for-family-series-3.57421
 f1-2017-thread.2341
 f1-fans-out-there-heres-a-stream-for-testing-with-live-video.20834
 f1-pit-girls-etc-the-reprise-strictly-no-camel-toes-please.18272
@@ -4891,6 +4975,7 @@ facebook-1902.20070
 facebook-app-android.5436
 facebook-down-20-billion-today.38217
 facebook-friend-request.21508
+facebook-help-forgotten-password.57174
 facebook-news-feed-changes-deeply-significant-for-publishing-industry.16521
 facebook-page-for-sperm-donors.6242
 facebook-parents-kids-nativity-events.12994
@@ -4905,6 +4990,7 @@ fad-diets.33780
 failing-to-provide-a-breath-test.39574
 fair-price-for-combi-diverter-valve-replacement.53666
 fairness-and-equality-in-scottish-state-schools-i-am-confused-please-help.6450
+fairytale-of-new-york-going-to-be-banned.57007
 faith-and-frankenstein.21934
 falkirk-precinct.54087
 falkirk-the-town-and-surrounds.1774
@@ -4942,6 +5028,7 @@ fantasy-football.40890
 fantasy-league.40419
 fantasy-race-to-dubai-2018.13340
 fao-conspiracy-ufo-aliens-fans-streetcap1-died.43838
+fao-ex-231st-bb-boys-from-stamperland-church.57375
 fao-kirkcaldy-based-bears.16032
 fao-liverpool-bears-trying-to-identify-a-scouse-stand-up-comedian.34243
 far-cry-5-of-sea-of-thieves-best-trade-in-sale-value.24082
@@ -4949,6 +5036,7 @@ far-cry-5.23976
 far-east-cruise.1746
 far-right-parody-video.20533
 farage-coming-round-to-idea-of-second-brexit-referendum.15746
+farage-leaves-ukip.56876
 fares4free.52984
 farewell-chief-wahoo.17853
 fargo-tv-series.2742
@@ -5074,6 +5162,7 @@ fenton.16906
 fernando-alonso-retires.41544
 ferrets-as-pets.22070
 ferry-across-the-mersey.37731
+ferry-between-scotland-ni.56838
 ferry-inn-renfrew.31393
 festivals-suitable-for-kids.31478
 festive-period-death-sweep-2018-2019.56451
@@ -5091,6 +5180,7 @@ ff-financial-advisor.15771
 ff-football-monday-7s.19440
 ff-gardeners-help-required.30870
 ff-heating-engineers-a-moment-of-your-time-please.47103
+ff-infiltrating-your-dreams.56943
 ff-joiners.1521
 ff-legal-eagles.40088
 ff-mechanics-suzuki-swift.26848
@@ -5105,12 +5195,15 @@ ff-running-thread.263
 ff-site-issues.53183
 ff-ski-snowboard-thread.15737
 ff-steak-lovers-been-anywhere-new-recently.22074
+ff-to-the-rescue.57188
 ff-tradesmen-work-and-employment-opportunity-thread.1589
 ff-trophy-points.55297
 ffs-new-board-your-addiction-levels.2882
+fianna-f%C3%A1il-the-anarchist-party.57368
 fibre-to-the-premises-and-sky-tv-deals.31012
 fibromyalgia.37444
 fibromyalgia.55131
+fibromyalgia.57273
 fidel-castro-hari-kari.18235
 fidelma-cook-the-herald.37050
 field-of-dreams.34131
@@ -5181,6 +5274,7 @@ finishing-sentences-with-end-off-simple-as-or-fact.51405
 finnieston-where-to-go.4779
 finnish-film-unknown-soldier-finnish-soviet-war.10855
 finnish-woman-tells-the-irish-to-drop-the-self-pity-and-victimhood-culture.23885
+fiona-bruce-new-question-time-presenter.57249
 fionola-meredith-deniers-and-enablers-how-politicians-let-down-family-of-victim-robert-mccartney.34287
 fire-at-haymarket.25083
 fire-crew-suspended-for-prank.4984
@@ -5239,6 +5333,7 @@ fitbit-acting-up.23949
 fitbit-blaze.9521
 fitbit-watches.53786
 fitbits.17904
+fitness-app.57419
 fitting-installing-gas-central-heating.31779
 fitting-wooden-blinds-venetian.38045
 five-guys-burger-joint.50638
@@ -5394,6 +5489,7 @@ follow-follow-euro-millions-syndicate-5-9th-october.49320
 follow-follow-euro-millions-syndicate-6-10th-april.24982
 follow-follow-euro-millions-syndicate-6-10th-july.35781
 follow-follow-euro-millions-syndicate-6-10th-october.5032
+follow-follow-euro-millions-syndicate-7-11th-december.56996
 follow-follow-euro-millions-syndicate-7-11th-setember.45640
 follow-follow-euro-millions-syndicate-8-12th-december.12093
 follow-follow-euro-millions-syndicate-8-12th-june.33065
@@ -5436,6 +5532,7 @@ football-manager-custom-kits.32533
 football-manager-pc-where-to-buy.27438
 football-manager.15680
 football-players.20034
+football-pools.57384
 football-related-day-out-3-year-old.22889
 football-related-first-names.8095
 football-tax-havens.8972
@@ -5473,8 +5570,10 @@ foreign-films-my-lips-move-reading-the-subtitles.4337
 forex-trading-does-anyone-know-much-about-this.44257
 forex-trading.2507
 forex-trading.27374
+forex-trading.57295
 forge-retail-parking.12239
 forget-womens-rights-all-that-serena-was-campaigning-for-at-the-us-open-is-special-treatment.47068
+forgive-me-father-for-i-have-sinned.57710
 forgotten-glasgow-bands.9904
 forgotten-lounge-thread-crossdressing.1829
 forgotten-phone-password.27490
@@ -5489,6 +5588,7 @@ fort-william-to-mallaig-on-the-steam-train.41471
 forthcoming-films-to-look-out-for.1517
 forties-pipeline-to-shutdown-for-3-weeks.12476
 fortitude-on-sky-atlantic.18314
+fortitude.57610
 fortnite-battle-royale-free-on-ps4-store.30111
 fortnite-battle-royale.20888
 fortnite-battle-royale.24597
@@ -5544,8 +5644,10 @@ fred-perry-%C2%A315-for-a-keyring.16143
 freddie-and-bowies-isolated-vocal-track-for-under-pressure.54733
 freddie-mercury-at-live-aid-what-a-performance.54930
 freddie-scappaticci-arrested-over-murders.17946
+freddie-the-farmyard-fenian.56956
 freddy-mercury-loved-pussy.17000
 freddy-mills-documentary-coming-on-channel-4-at-9pm.39132
+frederick-douglass-exhibition-at-the-national-library.56761
 free-ads-on-facebook.17666
 free-beer-in-ashton-lane.46561
 free-brew-dog-pint.25654
@@ -5612,6 +5714,7 @@ from-russia-to-iran.796
 from-the-jam.4510
 front-door-handle-gubbed.9613
 front-page-of-republican-news-saturday-may-19-1973.50209
+frontier-netflix.57666
 froomey-cleared.35540
 frozen-shoulder.39161
 fruit-machines.34442
@@ -5676,7 +5779,9 @@ gamers-of-the-lounge-headphones.55760
 gamers-what%E2%80%99s-this-worth-playstation.17450
 games-on-an-iphone.49026
 gamesmania-at-the-science-centre.35450
+gaming-computers.57186
 gaming-for-a-50-year-old-its-it-possible.26386
+gaming-laptops.57406
 gaming-monitors.18911
 gaming-pc-for-beginners.9057
 gaming-pc-pals-wanted.15950
@@ -5693,6 +5798,7 @@ garage-door-problem.21425
 garage-doors-advice.2703
 garage-doors.35793
 garage-recommendation-rutherglen-or-kinning-park.18923
+garage-recommendationo.56975
 garage-refurbishment.18255
 garageband-for-ios-extend-the-end-of-a-note-beyond-the-end-of-the-region.36369
 garages-open-on-a-sunday.23864
@@ -5745,6 +5851,7 @@ gatorland-florida.49837
 gatwick-airport-lounges.34029
 gatwick-lounges.8411
 gavin-mcinnes.15221
+gay-daleks.56819
 gay-disney-character.42588
 gay-football-players.12384
 gay-marriage.13011
@@ -5813,6 +5920,7 @@ gerry-cinnamon-one-of-them-or-is-that-lies.35488
 gerry-cinnamon.10310
 gerry-cinnamon.24634
 gerry-cinnamon.4512
+gerry-cinnamon.57285
 gerry-cinnamon.6036
 gerry-hassan-a-warning-from-the-past-what-happened-to-scottish-labour-could-happen-to-the-snp.20007
 gerry-kelly-uses-bolt-cutters-to-remove-wheel-clamp.18490
@@ -5873,6 +5981,7 @@ giffgaff-simon-only.11962
 gifs-funny-stuff.6334
 gift-experience-scotland.33575
 gift-wrapping-service.13343
+gifting-fails.57714
 gigabit-switches.39390
 gilbert-osullivan-playing-oran-more.39584
 gillette-pro-glide-for-%C2%A31-99.34267
@@ -5906,6 +6015,7 @@ glasgow-accommodation.5645
 glasgow-airport-closed-due-to-incident.10447
 glasgow-airport-drop-off-charges.27052
 glasgow-airport-flight-path.31815
+glasgow-airport-ground-crew.56998
 glasgow-airport-lounges-any-worth-paying-to-get-access.15692
 glasgow-airport-ncp-codes.36986
 glasgow-airport-parking.51475
@@ -5938,6 +6048,7 @@ glasgow-city-council-salary-dates.20332
 glasgow-club-bellahouston.31264
 glasgow-club-gyms-anyone-use-them.2152
 glasgow-council-leader-on-mission-against-orange-order.36875
+glasgow-council-missed-a-trick.57685
 glasgow-creates-its-1st-religious-no-go-zone.43395
 glasgow-credit-union.20927
 glasgow-curry-on-a-sunday.47803
@@ -6029,6 +6140,7 @@ glasgows-orange-order-walk.23904
 glasgvegas-cafe-old-barbax.43119
 glass-and-wood-bannister-joiner.23777
 glass-bottle-milk-glasgow.36870
+glasses-direct-how-does-it-work.57650
 glasses-the-kind-you-put-on-your-face.33391
 glastonbury-2019-registration.39678
 glastonbury-2019-ticket-thread.49820
@@ -6176,6 +6288,7 @@ got-my-beer-delivery-this-morning.54922
 got-our-first-puppy-home-today.46753
 got-the-call-every-parent-dreads-today.9396
 got-the-dug-a-haircut.9277
+got-the-xmas-bevvy-in-yet-what-are-you-getting.57224
 got-your-money-by-o-d-b.2319
 gotham-season-4.25795
 gotham.21417
@@ -6230,6 +6343,7 @@ great-opportunity-for-someone-relocate-to-sweden.52166
 great-ormond-street-charity-returns-donations-from-event-where-hostesses-were-groped.17159
 great-philosophical-questions-that-twist-your-brain.7862
 great-pic-of-the-highlands.27411
+great-places-to-have-a-bit-of-sex.57592
 great-pub-signs.33525
 great-scottish-run.4626
 great-smashing-not-so-super.22854
@@ -6262,6 +6376,7 @@ grey-and-white.24319
 grey-cup-final.55763
 grey-goose-morrisons.11782
 grey-goose-vodka.3003
+grief.57429
 grill-on-the-corner-or-alston-bar-beef.8699
 grim-london.18626
 gritters-bin-lorries.16601
@@ -6302,6 +6417,7 @@ guitar-repair-in-glasgow-whos-your-first-choice.5736
 guitar-thread.50550
 guitarists-of-the-lounge.2454
 guitarists-who-cant-play-guitar.2238
+gumshavers.56775
 gumtree-advice-required.31375
 gumtree-story-thread.15346
 gumtree.24517
@@ -6366,6 +6482,7 @@ halloween-viewing-plans.51617
 halloween.52229
 halong-bay-cat-ba-bay.50987
 halsey-says-hotels-should-provide-more-than-just-white-people-shampoo-in-bathrooms.27708
+hamburg-airport-s-bahn.57581
 hamburg-for-a-stag-doo.15527
 hamburg-for-a-stag.23733
 hamburg-game.16476
@@ -6547,6 +6664,7 @@ heavy-one-but-here-goes-kidney-transplant-anyone-had-one.3218
 heavy-rock-metal-thread.19769
 hedge-trimmers.32438
 heimebane-really-good-tv-drama-about-football.34651
+heinz-beans.57385
 heinz-wolff.13125
 helicopter-crash-in-new-york.22590
 hell-raisers.18933
@@ -6638,6 +6756,7 @@ history-of-ireland-bbc4-10pm-monday.42767
 history-of-the-mining-villages.36290
 history-podcasts.50919
 hit-and-run.34882
+hit-somebody-by-warren-zevon.57303
 hitler-and-the-decisions-for-the-final-solution-christopher-browning.38575
 hitler-circle-of-evil.23462
 hive-british-gas.39224
@@ -6649,9 +6768,11 @@ hmrc-p800-tax-rebate.51659
 hmrc-scam-call.16390
 hms-hood-built-on-the-clyde.43379
 hms-queen-elizabeth-is-now-officially-an-aircraft-carrier.48683
+hms-queen-elizabeth-on-the-way-home.57674
 hofbr%C3%A4u-m%C3%BCnchner-weisse.55021
 hofskirkja-one-of-the-last-peat-churches-in-iceland.33409
 hogmanay-parties-in-glasgow.13276
+hogmanay-recommendation-for-a-big-group.57173
 hogmany-in-liverpool.13225
 holiday-2018-thread.19911
 holiday-advice-what-would-you-do.28654
@@ -6674,6 +6795,7 @@ holiday-on-the-buses.24542
 holiday-pre-paid-card.29816
 holiday-reading.36306
 holiday-recommendations.30413
+holiday-resort-make-effigy-of-womans-dead-son.57250
 holiday-resorts-for-a-6-year-old.15326
 holiday-resorts-with-a-5-month-old-baby-worth-it.4201
 holiday-rip-off-bbc1.16474
@@ -6764,6 +6886,7 @@ hot-peppers.18575
 hot-places-europe-in-february.15237
 hot-tub.37750
 hotel-and-restaurant-reccomendation-within-an-hour-of-glasgow.46920
+hotel-blunder.57262
 hotel-direct-reviews.42608
 hotel-for-mums-birthday.8559
 hotel-help.29808
@@ -6804,6 +6927,7 @@ house-renting-advice.3921
 housebreaker-scumbag-caught-in-the-act.21045
 housecoat-or-dressing-gown.24327
 houseplants.55069
+houses-in-uddingston.57684
 housing-and-property-chamber.31210
 housing-associations.15678
 housing-is-it-a-buyers-market.50098
@@ -6826,6 +6950,7 @@ how-did-you-do-at-school-and-then-employment.6559
 how-did-you-get-to-where-you-are-now.52815
 how-do-airport-x-ray-machines-work-and-what-are-they-looking-for.2627
 how-do-i-cancel-my-spotify-subscription.24900
+how-do-i-create-a-gif.57322
 how-do-i-do-a-search-on-this-new-forum.17921
 how-do-i-get-rid-of-ads.38862
 how-do-i-get-rtv-onto-firestick.22320
@@ -6856,6 +6981,7 @@ how-do-you-set-a-signiture.1519
 how-do-you-spend-your-lunch-breaks.22740
 how-do-you-start-a-thread-in-the-ff-ticket-office.32958
 how-do-you-stop-knife-crime.32417
+how-do-you-unsubscribe-from-face-book.56893
 how-does-everyone-like-there-steaks.45160
 how-easy-is-it-to-impersonate-victor-meldrew.24025
 how-ethical-would-you-say-you-are.5960
@@ -6890,6 +7016,7 @@ how-much-to-get-you-merry-in-the-house.30754
 how-much-to-have-a-house-alarm-installed.11290
 how-much-to-install-an-electric-shower.23325
 how-much-was-a-pint-when-you-started-going-to-the-pub.937
+how-much-would-a-new-hard-wood-floor-cost.57466
 how-much-would-it-cost-to-build-a-porch.15340
 how-normal-does-a-politician-need-to-be.46179
 how-often-do-you-go-out-for-a-meal.21629
@@ -6979,6 +7106,7 @@ hurt-my-arm-this-morning.17380
 husky-beer-fridge.55375
 hutchesons-restaurant-glasgow.2326
 hyde-park-bomber-downey-faces-murder-trial-at-long-last.53565
+hydro-and-the-darts.57268
 hydro-parking.43633
 hypernormalisation.5749
 hypocrisy-not-repression-causes-catholic-sex-abuse-scandals-says-tim.38921
@@ -7025,6 +7153,7 @@ ibiza-cream-amnesia-no-more.21312
 ibiza-first-time-going.30354
 ibiza-for-beginners.39653
 ibiza.43571
+ibm-site-greenock.57257
 ibrox-in-pes-19.37715
 ibrox-park-high-school.34644
 ibrox-security.3401
@@ -7074,6 +7203,7 @@ if-only-they-had-that-extra-letter.26798
 if-southern-ireland-commemorates-the-boyne-on-its-postage-stamps.5212
 if-the-falklands-war-took-place-today.39172
 if-there-was-a-dance-dj-you-would-like-to-kick-in-the-balls.2266
+if-there-was-a-new-eu-ref-poll.57438
 if-you-are-thinking-of-having-children-or-just-had-a-baby-please-read-this-childhood-leukaemia.31338
 if-you-cant-meet-yer-heroes-then.35418
 if-you-could-bring-back-1-chocolate-bar-1-sweet-that-are-no-longer-for-sale-which-would-you-choose.53547
@@ -7191,11 +7321,13 @@ insignia-2-0ecoflex.6318
 insignia-grand-sport.40614
 install-windows-10-onto-new-ssd-help-needed.24561
 installing-a-driveway.9395
+instant-justice-us-style.57379
 instant-replay-machine-made-its-debut-55-years-ago-today.53774
 instyle-kitchens-and-bathrooms.31487
 insulin-dependent-diabetics.54371
 insurance-assessors-claim.15151
 insurance-claim-help.35678
+insurance-for-van-and-car.57272
 insurance-no-claims-bonus.33465
 insurance-rip-off.56055
 insurance-wanting-to-write-off-my-van-advice-needed-is-possible.23768
@@ -7277,12 +7409,14 @@ iphone-screenshots-when-it-shows-in-bottom-corner.31916
 iphone-se-yea-or-nay.13999
 iphone-smart-tv-apps.43532
 iphone-synching-automatically-to-imac.47695
+iphone-vpn.56948
 iphone-wifi-and-bluetooth-problem.53437
 iphone-x-is-it-worth-it.35714
 iphone-x-pre-orders-today.7524
 iphone-x-vs-huawei-p20.30815
 iphone-x-will-it-come-down-in-price.50329
 iphone-x.42324
+iphone-xr-unlock.57598
 ipod-versus-hi-res-music-player.13470
 ipswich-school-reports-30-year-old-pupil.53098
 iptv-on-firestick.10067
@@ -7429,6 +7563,7 @@ italys-budget-crisis-is-a-bigger-threat-to-the-eu-than-brexit-%E2%80%93-you-bett
 itil-malc-exam.12486
 itison-living-social-etc.32990
 its-always-sunny-in-philadelphia-season-13.45830
+its-christmas-gonnae-leave-us-alane-snowball-game.57428
 its-friday-night-its-northern-soul-time.12170
 its-fun-day-tomorrow.13106
 its-groundhog-day.18292
@@ -7594,6 +7729,7 @@ joe-rogan-strange-times-netflix.49688
 joe-versus-the-volcano.36939
 joe-wicks-youtube-workouts.47230
 joey-barton-morrissey.6308
+john-barnes-attacks-piers-morgan-bbc-breakfast.57643
 john-carpenter-concert-tonight.51268
 john-carpenter-director.4707
 john-carpenter-music.37113
@@ -7628,6 +7764,7 @@ johnston-press-owner-of-the-scotsman-goes-into-administration.54928
 johnstone-parade.35387
 joiner-required-recommendations.24312
 joiner-stirling-area.8221
+joiners-flooring-people-laying-click-vinyl-laminate-in-a-tiny-room.57651
 joiners-of-the-lounge-hanging-internal-doors.47041
 joiners-that-specialise-in-banisters-staircases.40184
 joinery-flooring-question.23613
@@ -7658,6 +7795,7 @@ journeys-end-film.23083
 joy-lofthouse-ww2-heroine-rip.9571
 joyce-falconer.11315
 joyner-lucas-im-not-racist.35267
+judging-people-who-have-blue-disabled-badges.56828
 judy-garland-molested-by-munchkins.22664
 judys-knocking-at-the-door.36828
 julia-hartley-brewer-on-question-time.46519
@@ -7681,6 +7819,7 @@ just-another-day-in-america-naked-gunman-kills-four-in-nashville-waffle-house.27
 just-another-example-of-britain-in-decline.7759
 just-back-from-a-gig-watching-queen-adam-lambert-in-belfast.10773
 just-back-from-nyc-where-next-in-the-us.12464
+just-back-from-vets.57015
 just-been-asked-to-be-a-godparent.30727
 just-been-given-news-that-makes-todays-result-irrelevant-to-me.13757
 just-booked-for-andre-rieu-22nd-december.39675
@@ -7732,6 +7871,7 @@ katie-price-the-downward-spiral-continues.50231
 katrice-lee-german-riverbank-to-be-dug-up-in-missing-child-search.28215
 katy-perry-in-sexual-harassment-outrage.22932
 kavanaugh-hearing.49313
+kay-burley-and-james-obrien-in-bitch-fight.57134
 kay-burley-compares-a-burkha-to-simon-weston.40435
 kays-good-cookin.3330
 kays-good-cooking-youtube.17382
@@ -7784,6 +7924,7 @@ kevin-bridges.49467
 kevin-bridges.50642
 kevin-cadle.6004
 kevin-hague-article-in-the-ileach-the-local-newspaper-for-islay-and-jura.50677
+kevin-hart-steps-down-from-hosting-the-oscars.57220
 kevin-hart-tonight.43991
 kevin-hart-tour-hydro-pre-sale-10am.18028
 kevin-hart-uk-tour.44521
@@ -7854,6 +7995,7 @@ kinross-sunday-market.28427
 kippers-for-breakfast.38679
 kirk-%E2%80%98regret%E2%80%99-over-anti-catholicism.17599
 kirnin-house-lochgilphead.9221
+kirsty-allsop.56763
 kirsty-edwards-sky-sports.39078
 kirsty-gallacher-twitter.9086
 kirsty-gallacher.33373
@@ -8108,6 +8250,7 @@ legoland-windsor-tips-advice.23646
 leisure-footwear-for-pimps.6340
 leith-docks-area.33018
 lemon-lime-jaffa-cakes.43616
+lena-dunham-says-defending-accused-writer-was-a-terrible-mistake.57156
 length-of-time-and-cost-of-your-commute-to-work.6896
 lenin-teaches-reindeer-herders-to-manage-the-tundra-on-the-yamal-peninsula.24427
 lenin-the-cat-lover-rare-photos-of-soviet-leader-go-on-show-in-oxford.8709
@@ -8211,9 +8354,11 @@ little-things-that-annoy-the-hell-out-of-you.33643
 littlefinger-to-play-dave-allen-in-biopic.3093
 live-aid.37851
 live-band-recommendations-for-an-event.15480
+live-music-at-hard-rock-glasgow.56957
 live-music.23812
 live-tv-streaming-issues-on-my-laptop.14107
 liverpool-airport-restaurant-recommendations.24985
+liverpool-child-asylum-seekers-found-to-be-adults.57440
 liverpool-o-o-southport.37165
 liverpool.34851
 living-abroad.55940
@@ -8223,6 +8368,7 @@ living-in-new-york.46157
 livingston-shopping-outlets-any-good.25786
 livingston-skatepark.42909
 liz-fraser-dead.45773
+liz-hurley-again-and-again.57185
 liz-hurley-again.46127
 liz-hurley-in-the-sun-today.31248
 liz-hurley-looking-immense.24929
@@ -8588,6 +8734,7 @@ manchester-airport-advice.30945
 manchester-bomb-hero-admits-theft-from-victims.14957
 manchester-for-a-night-out.8169
 manchester-uni-students-union-bans-clapping-and-suggests-jazz-hands-instead.49054
+manchester.57233
 mancunian-poet-barry-newroad-on-emily-bronte.25340
 manhattan-eateries.19851
 manhunt-unabomber-netflix.18632
@@ -8725,12 +8872,14 @@ mechanics-advice-coolant-leak.32930
 mechanics-anyone-familiar-with-vw-passats.12937
 mechanics-is-this-story-plausible.7052
 mechanics-of-follow-follow.10289
+mechanics-of-the-lounge.57348
 mechanics.15380
 media-player-that-will-play-large-ext-hdrive.33397
 media-smearing-of-the-orange-walk.36159
 mediawatch-thread.39162
 medical-advice-advice.31473
 medical.55339
+medication-for-aniexty-etc.57689
 medicinal-cannabis-oil-for-child-confiscated.33471
 medieval-times.32491
 meditation.22941
@@ -8782,6 +8931,7 @@ mercedes-a-class.8351
 mercedes-f1-team-robbed-at-gunpoint-in-brazil.9118
 mercedes-sprinter-engine-rebuild.30559
 mercedes-sprinter-rust-repairs.25729
+merchant-city-off-sales.57608
 mercury-music.2262
 merry-christmas-fellow-bears.13900
 merry-christmas-ya-filthy-animal.13897
@@ -8823,6 +8973,7 @@ michael-the-geordie.34065
 michelin-factory-in-dundee-to-close-850-jobs.53564
 michelle-keegan-on-the-one-show-just-now.32124
 micky-flanagan-an-another-fing-dvd.16103
+micro-sd-card-corrupt-help-restoring-files.57361
 microphone-hire-in-glasgow-anyone-help.47258
 microsoft-office.19643
 microsoft-surface-2-in-1-anyone-have-one-any-reviews.9111
@@ -8854,6 +9005,7 @@ milk-and-alochol.48679
 milk-glass-bottles-glasgow.23126
 milkmen.19757
 millions-missing-a-moment-of-your-time-please-bears.30160
+milo-yiannopolous-is-near-bankrupt.57115
 milo-yiannopolous.11164
 milo-yiannopoulos-absolutely-owns-the-daily-beast.35121
 mind-blowing-facts.15708
@@ -8912,6 +9064,7 @@ mobile-phone-found.31740
 mobile-phone-left-on-bench-in-callander.31592
 mobile-phone-recyling.19452
 mobile-phone-screen-repairs.48483
+mobile-phone-tracking.57695
 mobile-tracking-app-for-android.5408
 mobile-tyre-fitting-paisley.18154
 mobiles-co-uk.13782
@@ -8952,6 +9105,7 @@ mono-bloc-specialists.9573
 mono-block-and-patio-cleaning.32660
 monobloc-driveway-landscaper-recommendations-glasgow-east-end.18065
 monobloc.20729
+monster-of-worcester-cleared-for-release.56877
 montauk-project-unevplained-thead.6545
 monthly-subscriptions-what-do-you-sign-up-to.34858
 montserrat-caballe-pan-bread.49670
@@ -9002,6 +9156,7 @@ mortgage-advice.10890
 mortgage-advice.15317
 mortgage-advice.27344
 mortgage-advice.27755
+mortgage-advice.57187
 mortgage-advice.6629
 mortgage-adviser-good-career-path.3199
 mortgage-advisor-largsloyalist.46353
@@ -9023,6 +9178,7 @@ mortgages-some-help.2173
 mortimer-and-whitehouse-gone-fishing-bbc2.37405
 mosconi-cup.11651
 mosconi-cup.11855
+mosconi-cup.56887
 moscow-and-st-petersburgh.53295
 moscow-what-to-see-hidden-gems.52393
 moskito-bar.28177
@@ -9089,6 +9245,7 @@ mr-robert-laidlaw.8897
 mr-robot-on-amazon-prime.11302
 mr-singh-s-glasgow-parking.23634
 mr-singhs-pakora-masterclass.37413
+mri-scan.57199
 mrs-bb-got-a-ticket-for-parking-in-hermiston-gait-retail-park.9334
 mrs-bocanegra.19687
 mrs-brown-boys.15484
@@ -9142,6 +9299,7 @@ muslim-school-didnt-have-toilet-paper-due-to-cultural-reasons.11588
 musselburgh-racing-friday-afternoon-meetings.23511
 musselburgh-racing-tomorrow.32447
 must-be-a-postie.21202
+must-watch-documentaries-and-where-to-watch-them.57711
 muzzy-dvds-bbc-spanish-for-kids-dvds-to-teach-their-kids-grandkids-spanish.5354
 my-apple-id-stolen.31499
 my-best-pal.42550
@@ -9372,6 +9530,7 @@ new-caledonia-indyref-result.35256
 new-candidate-for-worst-tattoo-ever.20167
 new-car-advice-required.2330
 new-car-advice.2601
+new-car-door-mirror.56794
 new-car-help.12155
 new-car-lease-deals-or-pcp.2612
 new-car-suggestions-lease.25364
@@ -9407,6 +9566,7 @@ new-fitbit-ionic-watch.4345
 new-fitted-kitchens-wren-etc.18588
 new-fivers-and-tenners-like-or-dislike.18936
 new-forth-bridge-whats-going-on.47079
+new-front-door.56806
 new-game-show.56409
 new-garage-roof-and-guttering-downpipes.35344
 new-gas-boiler.7268
@@ -9537,6 +9697,7 @@ new-wardrobes-bedroom-furniture-recommendations.23956
 new-washine-but-whites-have-dirty-marks-all-over-them.6293
 new-wheeler-dealers-series-wot-no-edd-china.14150
 new-who-wants-to-be-millionaire.29233
+new-windows-and-doors.57105
 new-years-eve.55139
 new-years-honours-sir-nick-clegg.14380
 new-york-4-day-intinery-recommendations.38682
@@ -9758,11 +9919,13 @@ nun-murdered-young-boy-at-scottish-orphanage.11220
 nuns-arrested-over-abuse.43146
 nutter-neighbour-behaviour.47112
 nutters-on-nutella.17404
+nvidia-shield-what-can-it-do.57706
 nyc-recommendations.36827
 nycfc-tickets-worthwhile.21678
 nz-aus-travel-advice.28391
 o-t-hand-foot-and-mouth-disease.87
 o2-deals.48946
+o2-outage.57101
 o2-upgrade.20324
 oasis-at-ibrox.5078
 oasis-documentary-sky-arts.41113
@@ -9775,7 +9938,9 @@ obesity-the-post-mortem.28471
 obesity.18362
 obsession-of-india.20355
 obsessive-at-wedding.46096
+ocean-colour-scene-hydro-sat-8th.57293
 ocean-colour-scene-hydro.35649
+ocean-colour-scene.57296
 oceans-8.25721
 october-holidays.30721
 octopus-and-mdma.47460
@@ -9931,6 +10096,7 @@ open-university.2758
 opening-a-child-saving-account.8110
 opening-songs-on-a-debut-album.52214
 openreach-recruiting.22820
+opera-browser-for-ipad.56901
 operation-finale.46091
 operation-midland-nick-nicked.18819
 operation-oddssa.38549
@@ -10096,6 +10262,7 @@ paris.53500
 parking-across-from-hydro-next-to-nuffield-health.50331
 parking-around-ibrox.36405
 parking-around-murrayfield.32940
+parking-at-coatbridge-sunnyside-advice.57599
 parking-at-newcastle-ferry-port.50586
 parking-at-the-science-centre.52138
 parking-car-long-stay-glasgow-airport.20965
@@ -10107,8 +10274,10 @@ parking-charges-again.49208
 parking-dispute.22929
 parking-fine-last-night.7304
 parking-fine.34628
+parking-fines-in-supermarkets.57086
 parking-fines.6736
 parking-for-barrowlands.51917
+parking-full-day-near-st-georges-cross.56735
 parking-hilton-grosvenor-terrace.33096
 parking-in-glasgow-for-work.6228
 parking-near-crowne-plaza-hydro.4985
@@ -10141,6 +10310,7 @@ passengers-2016.1499
 passing-time-on-a-long-journey.13190
 passport-out-of-date.5651
 passport-renewal.32191
+password-manager-for-ipad-iphone.57278
 past-life-reincarnation-etc.51435
 pastor-uses-the-force-to-knock-down-flock.8036
 pastries-for-breakfast.2874
@@ -10166,6 +10336,7 @@ paul-gadd-song-on-a-cruise-ship.2102
 paul-kimmage-sir-wiggo-gets-back-to-brass-necks.53555
 paul-mccartney-uk-tour.35837
 paul-mccartney.36782
+paul-mccartney.56756
 paul-murtons-grand-tour-of-scotlands-lochs.5382
 paul-oakenfold.17628
 paul-ogrady-for-the-love-of-dogs.31603
@@ -10223,6 +10394,7 @@ pencil-cases-banned-in-english-school.30011
 pending-paypal-payment-from-ebay-sale.32077
 penn-state-back-in-trouble-again.9592
 penny-mordant-takes-over-from-priti-patel.8927
+pension-advice.57142
 pensions-pointless.6550
 people-cycling-in-the-snow.12033
 people-falling-for-banking-scams.31450
@@ -10230,6 +10402,7 @@ people-go-pronounce-%E2%80%9Cth%E2%80%9D-as-%E2%80%9Cf%E2%80%9D.21399
 people-hard-of-hearing.25731
 people-just-do-nothing-masterclass.44096
 people-make-glasgow-an-outdoor-toilet.32896
+people-moaning-about-universal-credit.57300
 people-of-the-lounge.37782
 people-openly-smoking-cannabis-in-public.9925
 people-queuing-outside-waiting-on-shops-opening.55461
@@ -10281,12 +10454,14 @@ pes-2018-rangers-edit-but-for-ps3.15244
 pes-2018-rangers-option-file.2174
 pes-2018.1898
 pes-2019-new-update.52001
+pes-2019-option-file.56785
 pes-loses-champions-league-licence.26502
 pet-insurance-pitfalls-or-things-to-avoid.46343
 pet-insurance.21790
 pet-rescues.55910
 pet-sematary-remake-trailer.50287
 pet-sounds.22203
+pete-shelley-deid.57189
 peter-gabriel-solsbury-hill.7753
 peter-hitchens-and-iain-dale-having-a-tizzy.27012
 peter-hitchens-nails-the-bbc-complaints-department.7806
@@ -10481,6 +10656,7 @@ podcast-recommendations.43894
 podcasts.33493
 podcasts.51307
 podcasts.53638
+podcasts.57468
 podgorica-and-sarajevo.27845
 podiatrist-recommendations-glasgow-lanarkshire.56054
 poignant-music.53293
@@ -11010,6 +11186,7 @@ radio-6-xmas.13533
 radio-caledonia-and-the-nazis-radio-4-tonight-8-oclock.10830
 radio-edit-v-album-version.38159
 radio-five-live-saturday-morning.5223
+radio-times-or-tv-times-xmas-editions.57147
 radiohead-suing-lana-del-rey.15388
 raf-benevolent-fund-raffle-for-an-aston-martin.2552
 raf-intercept-russian-bombers.47610
@@ -11025,10 +11202,12 @@ raising-a-glass.8091
 raising-awareness-of-veterans-suicide.46713
 rake.50690
 rambo-2.13385
+rambo-first-blood.56769
 rambo-iii.26787
 rampant-scumbagerry-at-work.45572
 randem-text.16772
 random-but-have-you-seen-folk-playing-basketball-in-your-local-park.51634
+random-coincidences.57389
 random-encounters-with-celebrities-famous-people-how-do-you-act.50906
 random-rangers-fans-around-the-world.45934
 random-texts-to-my-mates-phone.30967
@@ -11341,6 +11520,7 @@ reporting-damage-on-a-hire-car.25546
 reports-of-attempted-abduction.23990
 republic-cant-really-afford-united-ireland-now.34174
 republican-bar-glasgow-city-centre.33134
+republican-guns-on-the-streets-of-belfast.56873
 republican-scum.52134
 republicans-and-respect.12132
 republicans-at-it-again.24685
@@ -11376,6 +11556,7 @@ retraining-for-a-new-career.47654
 retro-gaming-thread.47741
 retro-gaming.23431
 retro-gaming.5431
+retro-ps1.56947
 retro-shop-help.4398
 return-of-the-jedi.43779
 returning-a-car-during-pcp-contract.13649
@@ -11436,6 +11617,7 @@ rip-peter-wyngarde-aka-jason-king-at-the-age-of-90.16484
 rip-robbie-rotten-lazy-town.42931
 rip-stan-lee.54517
 ripping-up-bad-photos.27850
+rise-of-the-clans.56902
 rise-up-students-and-fight-for-free-speech.6178
 rising-damp-help.52758
 river-leven-fishing.44708
@@ -11541,6 +11723,7 @@ rotating-locomotion-in-living-systems.8694
 rotherham-child-sexual-abuse-six-men-jailed.54897
 rotherham-council-tell-grooming-gang-rapist-he-can-see-his-son.55995
 rotherham.5088
+rotterdam.57225
 rouge-on-amazon-prime.4976
 rough-as-can-be.35421
 roundabouts.46469
@@ -11569,6 +11752,7 @@ royal-marines-funeral-shrewsbury-crematorium-tomorrow-1-15pm.50810
 royal-mint-unveils-new-quintessentially-british-collection-of-10p-coins.21330
 royal-navy-go-top-gun.48707
 royal-navy-perform-changing-of-the-guard.10728
+royal-scot-now-oneills-irish-themed-bar.57207
 royal-variety-show.13381
 royal-wedding-bad-lip-read.31507
 royal-wedding.30628
@@ -11580,6 +11764,7 @@ rtv.38327
 rubber-washer-question.23530
 rubbish-job-depressing.31496
 rubbish-xmas-presents.12919
+rubix-cubes-jeez.57414
 rugby-championship-2018.42334
 rugby-league-2018-season.19235
 rugby-league-papua-new-guinea-style.31838
@@ -11629,6 +11814,7 @@ ryanair-advice.35000
 ryanair-again.38235
 ryanair-baggage-policy-changes-today.52977
 ryanair-baggage-policy.37600
+ryanair-baggage.56774
 ryanair-check-in.4699
 ryanair-in-comparison-really-are-awful.34474
 ryanair-new-baggage-policy.16188
@@ -11749,6 +11935,7 @@ saturday-fight-night-whyte-v-parker.38588
 saturday-fight-night.5236
 saturday-fight-night.8501
 saturday-front-pages.46649
+saturday-kitchen.57334
 saturday-morning-choons.27742
 saturday-night-in-glasgow-suggestions.44097
 saturday-night-takeaway.2572
@@ -11780,6 +11967,7 @@ saying-goodbye-to-a-wonderul-wee-dog.47147
 saying-hellos-and-thank-yous-on-the-radio.17152
 scam-phone-calls.53474
 scam-virus-circulating.8717
+scammers-on-gumtree.57290
 scampi-fries-advert.26580
 scarface.38630
 scariest-film-youve-seen.4673
@@ -11939,6 +12127,7 @@ search.10804
 search.15463
 search.16628
 searching-for-sugar-man.46507
+searching-made-easier-an-unofficial-list-of-posts-to-date-external-link.56747
 season-3-last-chance-u.38128
 seat-belt-buzzer-wont-stop.43958
 seat61-train-from-london-to-moscow.15360
@@ -11954,7 +12143,9 @@ second-sun-headlights-is-there-any-need.9001
 secondary-ticketing.20294
 secret-flying.18622
 secret-millionaire-school-teacher.14376
+secret-santa-windup-idea-for-a-tim.56851
 secret-santa.55954
+secret-santa.57248
 secret-testing-of-driverless-car.20460
 secrets-of-a-lost-village-of-ancient-israel-come-to-light.50435
 secrets-of-the-glasgow-subway-video.45792
@@ -11979,6 +12170,7 @@ seeking-an-employment-lawyer-asking-for-a-friend.30632
 seeking-compensation-from-major-hotel-group.34227
 seems-like-a-nice-girl.2339
 seen-this-on-holiday.44067
+sega-ultimate-portable-game-player.57114
 seinfeld.3436
 selecting-scanner-for-use-with-mp-navigator.19218
 self-driving-uber-kill-woman-in-usa.23443
@@ -11988,6 +12180,7 @@ self-employed-ltd-company-or-umbrella.24976
 self-employed-plc-etc.38584
 self-employed-private.48114
 self-employed-sales-jobs.26608
+self-employed-sub-contractors-christmas-gifts.56966
 self-help-lifestyle-books.51084
 self-leveling-a-concrete-floor.44274
 self-service-check-outs.29567
@@ -12079,6 +12272,7 @@ shave-club-subscriptions.28694
 shaving-offers.44169
 shaving-subscriptions.16747
 shaving-your-chest.18311
+shawfield-dugs.57341
 shawlands-after-match-saturday.2937
 shawlands-pubs-with-live-music.7700
 shawlands-regeneration.33404
@@ -12090,6 +12284,7 @@ shed-seven.11317
 shed-seven.12180
 shed-seven.5573
 sheds.33477
+sheffield-councillor-sent-photo-of-topless-woman-during-meeting.57151
 sheffields-mayor.37756
 sheku-bayoh-family-sue-police-scotlands-chief-constable-for-%C2%A32m.28028
 shell-ditching-3-3-rotas-for-all-personnel.47133
@@ -12308,6 +12503,7 @@ sky-tv-and-broadband-deals.29361
 sky-tv-broadband.46302
 sky-tv-call-out-charge.11234
 sky-tv-customer-service-worst-ever.3938
+sky-tv-deal.56790
 sky-tv-deals-out-of-contract.43320
 sky-tv-deals.1698
 sky-tv-deals.41830
@@ -12538,6 +12734,7 @@ sony-bravia-tv-no-power.7627
 sony-smart-tv-problem-help.3778
 sony-xperia-screen-replacement-glasgow-south-lanarkshire.34560
 sopranos.45698
+sorrento.57380
 soul-weekend-in-albufiera-portugal.17493
 sound-system-help.23392
 soundbars-tv-surround-systems.37652
@@ -12591,6 +12788,7 @@ speeding-awareness.47091
 speeding-fine-court-option.11674
 speeding-fine.53538
 speeding-tolerances-and-likely-outcome.55753
+spending-money-on-fortnite.57637
 spending-the-night-at-an-airport.30016
 spenergy-networks.53611
 spice-magic-paisley.5888
@@ -12694,6 +12892,8 @@ star-stories.20519
 star-trek-discovery-season-2-trailer.37755
 star-trek-discovery.2619
 star-trek-discovery.8082
+star-wars-galaxy-of-heroes.56834
+star-wars-in-concert.57294
 star-wars-ix.38529
 star-wars-ranked-from-best-to-worst.39212
 star-wars-scented-candles.50345
@@ -12815,6 +13015,7 @@ strange-question-time-bm-store-that-sells-wallpaper.34792
 strange-stories-signings-you-have-seen-on-football-manager.45955
 strange-story-sex-attacker-with-no-willy.45498
 strange-thing-happened-earlier.20889
+strange-things-your-dog-does.57417
 strangely-pumpable-celebs-the-sequel.1885
 strangely-punchable-celebs-the-premiere.3115
 stranger-things-2.7555
@@ -13021,6 +13222,7 @@ takeaways-and-eateties-to-avoid.39492
 takeaways.23832
 taking-a-business-to-court.8775
 taking-a-trip-north-of-the-border.32058
+taking-a-works-van-to-the-dump.57121
 taking-advantage-of-the-royal-wedding-to-annoy-your-snp-voting-neighbours.31054
 taking-in-a-match-at-the-nou-camp.16533
 taking-in-a-parcel-for-a-neighbour.12276
@@ -13115,6 +13317,7 @@ technology-and-food.5944
 technology-from-yesteryear.36894
 technology-the-next-big-thing.24675
 techwood-tvs.55090
+ted-baker-shares-plunge.56728
 teddy-taylor-our-faith-in-politics-vanished-as-dunces-replaced-firebrands.3872
 teen-survives-105mph-crash.38992
 teenage-wildlife-has-there-ever-ever-been-a-better-song.3461
@@ -13201,8 +13404,10 @@ the-10-10-alcohol-curfew-in-scotland.23407
 the-12th-of-july-belfast.34977
 the-14-year-old-who-was-probably-the-youngest-irish-serviceman-to-die-in-ww1.41282
 the-15-17-to-paris-clint-eastwood.12894
+the-1949-1990-division-of-berlin-in-east-west-berlin-is-still-visible-today-in-the-tram-network.57463
 the-1980s-the-golden-age-of-indie-music.30832
 the-2017-18-ice-hockey-league-thread.2872
+the-2018-christmas-soundtrack-thread.57252
 the-2018-thread-of-christmas-viewing.55111
 the-306-dusk-play.50979
 the-80s-and-90s-saturday-night-tv-appreciation-thread.24306
@@ -13330,7 +13535,6 @@ the-curse-of-oak-island.51712
 the-daily-mash-guide-to-toilet-ettiquette.38262
 the-daily-record-editor-stuns-with-the-luminosity-of-his-intellect.2124
 the-dark-side-of-the-moon.21219
-the-dark-web.56398
 the-darkest-hour-movie.16449
 the-darkness-tomorrow-night-at-the-o2-academy.10925
 the-darkness.9134
@@ -13414,6 +13618,7 @@ the-foreigner-on-netflix.31702
 the-forgotten-history-of-new-york%E2%80%99s-bagel-famines.19692
 the-fountain-the-siege-continues.10109
 the-four-way-tie-bertie-and-jeeves-would-approve.21669
+the-french.57353
 the-funny-pics-thread.11751
 the-futures-bright-the-futures-orange.51996
 the-gaffers-badge.43668
@@ -13421,6 +13626,7 @@ the-game-the-nfl-want-you-to-forget.54147
 the-garage-nightclub-launch-new-night-for-the-disableds.25278
 the-gaslight-anthem-barrowlands.37839
 the-gers-figures-are-out.42959
+the-gin-thread.57179
 the-giraffe-is-now-on-the-endangered-species-list.24290
 the-glasgow-garden-festival.16299
 the-godfather.15353
@@ -13461,6 +13667,8 @@ the-haunting-of-hill-house-netflix.50896
 the-haunting-of-hill-house-netflix.55004
 the-haunting-of-hill-house.50474
 the-haunting-of-hill-house.50727
+the-haunting-of-hill-house.57329
+the-heart-hand-christmas-night-out-pic.57323
 the-heart-of-midlothian-a-sweet-symbol-marks-the-place-where-torturous-executions-were-once-carrie.4428
 the-heat-tonight.45241
 the-heist-sky-one.54526
@@ -13534,6 +13742,7 @@ the-last-photo-taken-by-cassini-kind-of-sad-its-gone.2864
 the-last-sharknado-its-about-time.41747
 the-last-surviving-member-of-classic-mot%C3%B6rhead-line-up-%E2%80%9Cfast%E2%80%9D-eddie-clarke-has-died.15766
 the-last-waltz.34781
+the-latest-from-fat-cashley.56730
 the-latest-from-the-football-tax-havens.51262
 the-laughter-group-real-life-david-brent.11306
 the-laurel-hardy-biopic-movie.47588
@@ -13714,6 +13923,7 @@ the-reporting-styles-of-the-media-continued.9091
 the-resident-luddite.4432
 the-return-of-curb-your-enthusiasm-tonight.4685
 the-ricky-gervais-xfm-podcast.30879
+the-roads-this-morning.56815
 the-roast-of-bruce-willis.39018
 the-romance-of-the-scottish-sleeper-train.23528
 the-room-written-by-directed-by-starring-tommy-wiseau.2886
@@ -13763,6 +13973,7 @@ the-skids-and-big-country.42247
 the-skids-king-tuts.15782
 the-slaves.53598
 the-slow-and-painful-erosion-of-masculinity-in-the-21st-century.55217
+the-slow-readers-club-tomorrow.57306
 the-snes-mini-launch-this-week.3880
 the-snowman.5190
 the-snp-and-brexit.11585
@@ -13811,6 +14022,7 @@ the-thick-of-it.50259
 the-third-volume-of-the-journal-of-orange-history-just-published.15763
 the-three-scottish-soldiers-john-mason-msp.20138
 the-ticket-office.1484
+the-ticket-office.56811
 the-tide-pod-challenge.16526
 the-titanic-and-the-orange-order.55377
 the-towering-intellectual-genius-who-is-editor-of-the-daily-record.10368
@@ -13976,6 +14188,7 @@ things-you-only-eat-or-drink-at-this-time-of-the-year.13874
 things-you-said-and-did-as-a-kid-that-you-cringe-at-now.54969
 things-you-should-try-at-least-once.1763
 things-you-used-to-eat.10172
+things-you-wrongly-assumed-didnt-realise-for-years.56935
 things-youve-laughed-at-when-you-really-shouldnt.4659
 things-youve-never-watched-that-are-popular-with-the-masses.4696
 thingumyjig-or-whatever-its-called.14790
@@ -14120,6 +14333,7 @@ times-article-calls-for-snp-hierarchy-to-get-rid-of-the-hatemongers.35186
 times-overtakes-daily-telegraph-headline-print-circulation-for-first-time-abc-figures-show.16537
 times-past-in-the-evening-times.35174
 timing-belt-or-timing-chain.43874
+timmied-dog.57659
 tin-of-compressed-air-for-cleaning.50053
 tin-star-no-spoilers.4138
 tin-star-sky-atlantic.988
@@ -14148,6 +14362,7 @@ todays-countdown.20940
 todays-have-horse-racing-tips.15909
 todays-serious-topic-of-discussion-underboob-or-sideboob.22831
 toilet-paper-makers-accused-of-racism.7109
+toilet-paper-saving-tip.56875
 toilets-in-work.1836
 tollcross-park.51937
 tom-cruise.6576
@@ -14384,6 +14599,7 @@ tuesdays-front-pages.36383
 tui-advert.9299
 tullyvallen-orange-hall-massacre-1975.44859
 tumble-dryer-not-working.9627
+tumblr-to-ban-all-porn.56896
 tunisia.8751
 tunnocks-products.2908
 tunnocks.18850
@@ -14497,6 +14713,7 @@ uber-loses-london-licence.3365
 uber-message-scam.53811
 uber-staunch-trainers.45662
 ucla-professor-dies-in-mummification-ritual-at-hollywood-executives-home.35553
+ufc-231.57395
 ufc-3-game.18325
 ufc-fight-night.38604
 ufc-later-woodley-v-till.45998
@@ -14521,6 +14738,7 @@ uks-first-gender-fluid-family.46034
 uks-scariest-debt-collector.47275
 uktv-channels-back-on-virgin-media.40981
 ukulele-advice.54891
+ullapool-salmon-individually-blessed-to-make-them-halal.56925
 ulster-bears-another-camper-van-thread.46410
 ulster-bears-attitudes.11722
 ulster-bears.48257
@@ -14542,6 +14760,7 @@ umbrellas.49772
 umidigi-phone-touch-screen-broken.19956
 un-compact-on-migration.56682
 unannounced-visitors.54918
+unblocking-an-iphone-7-to-any-network.56959
 unbuilt-britain-rebuilding-glasgow-post-war.22116
 uncontacted-tribes.35492
 undateables.16201
@@ -14572,6 +14791,7 @@ unionist-addressing-sinn-fein-gathering.18212
 unionist-party-for-united-ireland.51902
 unionists-must-challenge-this-%E2%80%98most-oppressed-people-ever%E2%80%99-mentality.26646
 united-airlines-or-norwegian-to-nyc.48768
+united-flight-edi-to-newark.57359
 united-ireland-campaign-is-based-on-a-delusion.23383
 united-states-of-hate-on-bbc-now.40512
 universal-credit.50351
@@ -14757,6 +14977,7 @@ video-game-addiction-to-be-classified-a-mental-heath-disorder.14923
 video-games-tantrums.8833
 video-ripping-software.10484
 video-two-men-arrested-after-violent-machete-street-fight-in-barcelona.25527
+vienna-hotel-available.57409
 vienna-recommendations.29335
 vienna-things-to-see.54231
 vienna.17281
@@ -14776,6 +14997,7 @@ vikings-season-5-volume-2.54022
 vikings-series-5.11328
 vikings.55742
 villa-fuerteventura.51000
+villa-in-orlando-area-to-rent.57413
 villa-rental-in-quesada-spain.43539
 villas-in-tenerife.15618
 vin-the-red-white-and-blue.39129
@@ -14788,6 +15010,7 @@ vinyl-shops-in-glasgow.14270
 vinyl-wrapping-kitchen-doors.16986
 virgin-bill-up-again.47335
 virgin-flight-upgrades.2907
+virgin-go-on-firestick.57451
 virgin-losing-uktv-channels.37682
 virgin-media-being-sneaky.2220
 virgin-media-customers-free-tv-box-hub-upgrade.17188
@@ -14843,6 +15066,7 @@ voodoo-people-the-prodigy.17291
 vote-for-a-political-part-and-make-it-our-own.39293
 voting-help-please.44777
 voting-if-there-was-a-rangers-party-would-you-vote-for-them.3959
+voyager-2-left-the-solar-system.57680
 vpn-for-laptop.23156
 vpn-help-needed.5594
 vpn-how-to-cast-to-tv.8951
@@ -14861,6 +15085,7 @@ vu-lou-reed-fans-lexington-125.25481
 vulfpeck.9509
 vw-engine-recon-replacement-recommendations.52740
 vw-golf-gte.31665
+vw-golf-mk7-tsi-heating-blowing-cooler-than-before.57614
 vw-golf-r.34658
 vw-in-the-mucky-stuff-again.17822
 vw-key-fob.33262
@@ -14916,6 +15141,7 @@ waste-no-time-with-recruitment.56269
 waste-pipe-blockage.28271
 watch-enthusiasts.17160
 watch-servicing-or-repairs-recommendations.42484
+watch-the-plates-are-really-hot.57582
 watched-threads.12922
 watching-and-listening-to-labour-conference.4105
 watching-cartoon-hd-on-windows-laptop-how.15074
@@ -14961,6 +15187,7 @@ website-page-help-needed.17137
 website-recommendations-for-last-minute-holidays.42744
 website-s.25743
 website-showing-live-train-movements-on-the-london-tube.42854
+website-which-maps-local-great-war-casualties.57330
 websites-for-betting-tips.38819
 websites-for-clothing.12829
 wedding-attire-for-a-holiday-abroad.34396
@@ -15031,6 +15258,7 @@ west-belfast-supports-palestine-a-day-late.46297
 west-brits-no-more.32027
 west-coast-audible-podcast.29383
 west-coast-of-america-tour-thread.51298
+west-coast-usa-road-trip-advice.57449
 west-coast-usa-road-trip.35884
 west-end-bar-airdrie.54388
 west-end-beer-festival-anyone-go-along-at-the-weekend.36300
@@ -15067,6 +15295,7 @@ wetwall.48886
 weve-been-in-luxembourg-for-two-weeks-and-we-have-already-re-homed-a-dog.46364
 weve-surely-reached-a-nadir-in-the-rights-debate.11284
 what-a-beautiful-send-off.23873
+what-a-choice-to-make.57133
 what-a-shame-for-scottish-msm.8899
 what-a-sunday-for-sport.34766
 what-annoys-you-in-everyday-life.2616
@@ -15183,6 +15412,7 @@ what%E2%80%99s-your-earliest-memory.53716
 what%E2%80%99s-your-thoughts-on-the-universe.34668
 whats-going-on-behind-the-albion-carpark.53374
 whats-going-on-in-sweden.17003
+whats-good-on-netflix.57700
 whats-happened-at-buchanan-st-queen-st.12785
 whats-happened-in-tradeston.37791
 whats-happening-in-glasgow-west-end.6258
@@ -15200,6 +15430,7 @@ whats-the-most-you-have-ever-ate.39558
 whats-the-most-youve-won-gambling.25593
 whats-the-must-have-xmas-gift-this-year.12622
 whats-the-name-of-this-scottish-film.15663
+whats-the-one-quote-that-has-just-stuck-with-you.57467
 whats-the-roads-like-greenock-a8-m8-to-glasgow.21050
 whats-the-scriptoid-with-ryanair-to-london.5055
 whats-the-weather-like-up-in-glasgow.39117
@@ -15268,6 +15499,7 @@ when-your-neighbour-is-on-the-nightshift.29164
 when-your-selling-something-and.23820
 where-a-wrong-has-to-be-made-right.49778
 where-abouts-in-belfast-is-this.37761
+where-am-i.57403
 where-are-the-hunk-generation-leading-us.15541
 where-are-we-with-brexit-now.18941
 where-can-i-buy-a-replica-club-tie.50682
@@ -15292,11 +15524,13 @@ where-to-stay-things-to-do-in-dubai.25323
 where-was-wendy%E2%80%99s-restaurant-in-glasgow-city-centre.50939
 where-will-you-be-when-nuclear-war-is-declared.11224
 where-would-you-live-if-you-could-live-anywhere.20514
+where%E2%80%99s-good-in-town-on-a-wednesday-night.56849
 where%E2%80%99s-hamza-useless-on-transport.29781
 wheres-rod-hull-when-you-need-him.41839
 wheres-the-most-dangerous-place-to-go-in-the-world-at-the-moment.32160
 wheres-the-search-function.5709
 which-apps-do-you-either-use-most-often-or-like-the-most.24384
+which-bible-do-the-church-of-scotland-congregation-use.56918
 which-biscuit-goes-best-with-a-cup-of-tea-at-night.14019
 which-chinese-phone.8202
 which-convictions-result-in-prison-time-and-which-convictions-dont-in-the-uk-today.34204
@@ -15305,6 +15539,7 @@ which-gamble-would-you-take.52291
 which-musical-instrument-would-you-like-to-excell-in.39650
 which-news-channel-do-you-watch-if-at-all.17817
 which-social-media-outlet-do-you-spend-most-time-on.52692
+which-trades-is-best-to-repoint-brickwork.57253
 which-used-car-to-buy.16506
 which-way-do-you-iron-your-shirt.46406
 whiplash-injury.51149
@@ -15498,6 +15733,7 @@ women-of-wimbledon-2018.35938
 women-toilet-roll-changing.34629
 women-who-are-taller-than-you.54849
 women-who-get-better-as-they-get-older.4192
+women-with-buggies.56965
 womens-british-open.39234
 womens-rights-or-islam.12157
 wonder-what-team-this-rocket-supports.5551
@@ -15514,6 +15750,7 @@ woody-allen-and-mia-farrow%E2%80%99s-son-speaks-out-ooft.31505
 worboys-release-overturned.24119
 worcester-sauce-crisps.38077
 work-advice.20187
+work-christmas-party-thread-2018-where-is-it.57681
 work-emails.33716
 work-ethos-in-this-country.18949
 work-experience.3231
@@ -15621,6 +15858,7 @@ xmas-jokes-lets-hear-them.13949
 xmas-market-recommendations.3905
 xmas-nights-out-late-trains-announced.10261
 xmas-party-nights.56404
+xmas-present-inspiration-for-the-mrs-please-help.57128
 xmas-shopping.50565
 xmas-traditions-from-around-the-world.12553
 xmas-turkey.54965
@@ -15665,9 +15903,11 @@ you-better-watch-out-stealing-a-mistletoe-kiss-is-now-rape.11538
 you-can-have-one-year-of-your-life-back.30830
 you-can-sing-like-any-one-artist-living-or-dead.2470
 you-cant-censor-free-speech-because-it-may-offend-someone.36749
+you-come-home-after-a-few-beers-what-album-do-you-put-on.57301
 you-couldnt-make-it-up-dessie-ohare-has-bail-varied-to-visit-lourdes.33219
 you-couldnt-make-it-up-mitchell-mclaughlin-professor-of-peace-studies.31346
 you-had-one-job.46142
+you-have-not-been-before-the-court-for-50-years-and-thats-good-character-in-my-book.57190
 you-tube-food-challenges.32508
 you-tube-ppv.43548
 you-tube-videos-wont-playback-on-this-forum-help-please.20732

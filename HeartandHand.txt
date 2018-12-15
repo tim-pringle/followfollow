@@ -24,9 +24,7 @@
 5 Storylines to Follow v Kilmarnock
 5 Storylines to Follow v Kilmarnock 31 Oct
 5 Storylines to follow v Livingston
-5 Storylines to follow v Motherwell
 5 Storylines to Follow v Motherwell
-5 Storylines to Follow v Spartak Moscow
 5 Storylines to Follow v Spartak Moscow
 5 Storylines to follow v St. Johnstone
 5 Storylines to follow v UFA (2nd Leg)
@@ -87,6 +85,7 @@ Bett On It - Tom Miller Interview
 Bett On It - Tony Vidmar Interview
 Blue Scarves On - Episode 1
 Blue Scarves On - Episode 2
+Blue Scarves On - Vienna Road Trip Diary
 Bonus Show - Kevin Thomson's All-Time XI
 Breaking News - Graeme Murty relieved of managerial duties
 Breaking News - Rangers to cut Celtic allocation to 900
@@ -124,6 +123,7 @@ Daily Update 10 May 2018
 Daily Update 10 Oct 2018
 Daily Update 10 Sept 2018
 Daily Update 11 Apr 2018
+Daily Update 11 Dec 2018
 Daily Update 11 December 2017
 Daily Update 11 January 2018
 Daily Update 11 July 2018
@@ -132,6 +132,7 @@ Daily Update 11 May 2018
 Daily Update 11 Oct 2018
 Daily Update 11 Sept 2018
 Daily update 12 Apr 2018
+Daily Update 12 Dec 2018
 Daily Update 12 December 2017
 Daily Update 12 February 2018
 Daily Update 12 January 2018
@@ -143,6 +144,7 @@ Daily Update 12 Oct 2018 - Gazza Special
 Daily Update 12 Sept 2018
 Daily Update 13 Apr 2018
 Daily Update 13 Aug 2018
+Daily Update 13 Dec 2018
 Daily Update 13 December 2017
 Daily Update 13 February 2018
 Daily Update 13 January 2018 featuring RangersBet and Roving Reporter Ross
@@ -152,6 +154,7 @@ Daily Update 13 March 2018
 Daily Update 13 Nov 2018
 Daily Update 13 Sept 2018
 Daily Update 14 Aug 2018
+Daily Update 14 Dec 2018
 Daily Update 14 December 2017
 Daily Update 14 February 2018
 Daily Update 14 January 2018
@@ -370,6 +373,7 @@ Daily Update 9 May 2018
 Daily Update 9 Nov 2018
 Daily Update 9 Oct 2018
 Daily Update Special - Gerrard Day
+Dart in Hand - PDC World Darts Preview
 David and Hoggy Q&A
 David Q&A
 Dundee demolition and satisfaction in Spain
@@ -549,9 +553,11 @@ Hoggy's Hamper: Rangers Bests and Worsts - Scott Carson
 Hoggy's Hamper: Rangers Bests and Worsts - Stewart Marshall
 Hoggy's Hamper: Rangers Bests and Worsts - Tom McDavid
 Hoggy's Hamper: Rangers Life #1 with Alan Bradley
+Hoggy's Hamper: Rangers Life #2 with Alan Bradley
 Isco Inferno - Episode 10
 Isco Inferno - Episode 11
 Isco Inferno - Episode 12
+Isco Inferno - Episode 13
 Isco Inferno - Episode 3
 Isco Inferno - Episode 5
 Isco Inferno - Episode 7
@@ -621,6 +627,7 @@ No Pirlo, No Party - The Serie A Show: Week 12
 No Pirlo, No Party - The Serie A Show: Week 7
 No Pirlo, No Party - Week 6
 No Pirlo, No Party – The Serie A Show: Week 13 
+No Pirlo, No Party – The Serie A Show: Week 14
 No Pirlo, No Party: The Serie A Show - Week 2
 Old Firm Postmatch 02 Sep
 Orcs Postmatch Reaction
@@ -697,13 +704,11 @@ Rangers v Dundee Postmatch Reaction 15 Sept 2018
 Rangers v Falkirk Postmatch Reaction Pod
 Rangers v FK Shkupi Postmatch Reaction
 Rangers v Hearts Postmatch Pod
-Rangers v Hearts Postmatch Pod
 Rangers v Hearts Postmatch Reaction Pod 7 Oct 2018
 Rangers v Kilmarnock Postmatch Reaction 31 Oct 2018
 Rangers v Kilmarnock Postmatch Reaction Pod
 Rangers v Livingston Postmatch Reaction 24 Nov 2018
 Rangers v Maribor Postmatch Reaction
-Rangers v Motherwell Postmatch Reaction Pod
 Rangers v Motherwell Postmatch Reaction Pod
 Rangers v Osijek 2nd Leg Postmatch Reaction
 Rangers v Rapid Vienna Postmatch
@@ -734,6 +739,7 @@ RangersBet Remembers...A Big Shot of Jack
 RangersBet Remembers...A Shot at Glory
 RangersBet Remembers...Bruno Fernandes De Souza
 RangersBet Remembers...Celebrity Fans
+RangersBet Remembers...Celebrity Fans 2
 RangersBet Remembers...Championship Manager
 RangersBet Remembers...Duncan Ferguson
 RangersBet Remembers...El Hadji Diouf
@@ -772,6 +778,7 @@ RangersBet Remembers...The Rangers Captains (Part 3)
 RangersBet Remembers...Wigan Athletic (Part 2)
 RangersRATED - Jorg Albertz
 RangersRATED - Lorenzo Amoruso
+Rapid Vienna v Rangers Postmatch Reaction
 Richard Gough - The Interview
 Roundtable Discussion - Season Preview
 Scot's Thought's - Strange League Setups
@@ -786,6 +793,7 @@ Six of the Best - Ally McCoist
 Six of the Best - Andy's Favourites
 Six of the Best - Chris' Favourites
 Six of the Best - Dado Prso
+Six of the Best - Festive Games
 Six of the Best - Foreign Rangers Players
 Six of the Best - Graeme Souness
 Six of the Best - International Careers
@@ -818,6 +826,7 @@ Star-Spangled Banter - Episode 1
 Star-Spangled Banter - Episode 2
 Star-Spangled Banter - Episode 3
 Star-Spangled Banter - Episode 4
+Star-Spangled Banter - Episode 6
 Star-Spangled Banter Thanksgiving Special!
 Stevie Ger Pre-announcement Pod
 Stuff and Nonsense - Episode 5
@@ -849,6 +858,7 @@ Tactics Talk - Moscow and Motherwell Madness
 Tactics Talk - Murphy Mania
 Tactics Talk - Murty's Motherwell Malaise
 Tactics Talk - Penetrating Partick
+Tactics Talk - Problems and possible solutions
 Tactics Talk - Return of the Sheep Shearing
 Tactics Talk - Scooping Through Shkupi
 Tactics Talk - Slamming Saints
@@ -928,6 +938,7 @@ The David and Scot Show - Episode 3
 The David and Scot Show - Episode 4
 The David and Scot Show - Episode 5
 The Eck Era - Episode 1
+The Eck Era - Episode 10
 The Eck Era - Episode 2
 The Eck Era - Episode 3
 The Eck Era - Episode 4
@@ -969,6 +980,8 @@ The European Hangover Champions League Roundup (Matchday 3 Night 1)
 The European Hangover Champions League Roundup (Matchday 4, Night 1
 The European Hangover Champions League Roundup (Matchday 4, Night 2)
 The European Hangover Champions League Roundup (Matchday 5, Night 1)
+The European Hangover Champions League Roundup (Matchday 6, Night 1)
+The European Hangover Champions League Roundup (Matchday 6, Night 2)
 The European Hangover Champions League Roundup (Week 2 Night 2)
 The European Hangover CL Final Special - Karius On Keeping
 The European Hangover's Hair of the Dog: Europa League Semi-Finals
@@ -1008,7 +1021,9 @@ The Number Ones - Stefan Klos
 The Overseas Bears Present 'Bears Abroad' - Episode One
 The Preview - Aberdeen 5 Dec 2018
 The Preview - Dundee 9 Dec 2018
+The Preview - Hamilton 16 Dec 2018
 The Preview - Hearts 2 Dec 2018
+The Preview - Rapid Vienna 13 Dec 2018
 The Preview - Villarreal
 The Quintessential Quiz - Episode 2
 The Quintessential Quiz - Episode Four
@@ -1016,6 +1031,7 @@ The Quintessential Quiz - Week 1
 The Quintessential Quiz - Week 10
 The Quintessential Quiz - Week 11
 The Quintessential Quiz - Week 12
+The Quintessential Quiz - Week 13 (Round 2)
 The Quintessential Quiz - Week 3
 The Quintessential Quiz - Week 4
 The Quintessential Quiz - Week 5
@@ -1032,6 +1048,7 @@ The Road to Manchester 10 Years on - Sporting Lisbon
 The Road To Manchester 10 Years On - Werder Bremen
 The Road to Manchester: 10 Years On - The Final
 The Springfield Files - Moe Szyslak
+The Springfield Files - Mr. Burns: the Early Years
 The Staff Study - Aberdeen
 The Staff Study - Dundee 15 Sept 2018
 The Staff Study - Hamilton 21 Oct 2018
@@ -1069,6 +1086,7 @@ The Time Capsule - France 98: The Semi-Finals
 The Time Capsule - Rangers 1-0 Celtic Nov 1989
 The Time Capsule - Rangers 1-1 Inter, Dec 2005
 The Time Capsule - Rangers 2-0 Aberdeen May 1991
+The Time Capsule - Rangers 2-0 Aberdeen, September 1986
 The Time Capsule - Rangers 2-1 Celtic 1986
 The Time Capsule - Rangers 2-1 Celtic, March 2003
 The Time Capsule - Rangers 2-1 Celtic, SCSF April 1996
@@ -1144,7 +1162,6 @@ When the Seagulls Follow The Trawler - The EPL Pod (S2 E4)
 When The Seagulls Follow the Trawler - The EPL Pod (S2 Ep1)
 When The Seagulls Follow the Trawler - The EPL Show (S2 E5)
 When the Seagulls Follow the Trawler - The EPL Show (S2 E6)
-When the Seagulls Follow the Trawler - The EPL Show (S2 E7)
 When The Seagulls Follow the Trawler - The EPL Show (S2 E7)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W 12)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W10)
@@ -1155,6 +1172,7 @@ When the Seagulls Follow the Trawler - The EPL Show (S2 W9)
 When the Seagulls Follow the Trawler - The EPL Show Episode 3
 When the Seagulls Follow the Trawler - The EPL Show: S2 W11
 When the Seagulls Follow the Trawler – The EPL Show (S2 W15)
+When the Seagulls Follow the Trawler – The EPL Show (S2 W16)
 When the Seagulls Follow the Trawler: The EPL Pod (Ep 7)
 When the Seagulls Follow the Trawler: The EPL Pod (S2 E9)
 When the Seagulls Follow the Trawler: The EPL Pod (S2 Ep2)

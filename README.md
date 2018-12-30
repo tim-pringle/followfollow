@@ -4,11 +4,11 @@ This repository contains an unofficial listing of threads feature in the forums 
 
 At present, the count of posts listed are as follows
 
-The Bear Pit: 34,020 posts
+The Bear Pit: 35,386 posts
 
-The Lounge: 16,159 posts
+The Lounge: 16,644 posts
 
-Heart and Hand : 1208 pods
+Heart and Hand : 1253 pods
 
 # Searching for Posts/Pods
 To find what you are looking for simply open up the file you wish to view. You can either download the text file first and then open in your favorite text editor, or depending on your browser, you may also be able to open it directly.

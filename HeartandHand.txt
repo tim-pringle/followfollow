@@ -24,6 +24,7 @@
 5 Storylines to Follow v Kilmarnock
 5 Storylines to Follow v Kilmarnock 31 Oct
 5 Storylines to follow v Livingston
+5 Storylines to follow v Motherwell
 5 Storylines to Follow v Motherwell
 5 Storylines to Follow v Spartak Moscow
 5 Storylines to follow v St. Johnstone
@@ -183,12 +184,14 @@ Daily Update 16 Nov 2018 - Episode 250!
 Daily Update 16 Oct 2018
 Daily Update 17 Apr 2018
 Daily Update 17 Aug 2018
+Daily Update 17 Dec 2018
 Daily Update 17 January 2018
 Daily Update 17 July 2018
 Daily Update 17 May 2018
 Daily Update 17 Oct 2018
 Daily Update 17 Sept 2018
 Daily Update 18 Apr 2018 - Episode 100!
+Daily Update 18 Dec 2018
 Daily Update 18 December 2017
 Daily Update 18 January 2018
 Daily Update 18 July 2018
@@ -197,6 +200,7 @@ Daily Update 18 May 2018
 Daily Update 18 Oct 2018
 Daily Update 18 Sept 2018
 Daily Update 19 Apr 2018
+Daily Update 19 Dec 2018
 Daily Update 19 December 2017
 Daily Update 19 February 2018
 Daily Update 19 January 2018
@@ -217,6 +221,7 @@ Daily Update 2 Nov 2018
 Daily Update 2 Oct 2018
 Daily Update 20 Apr 2018
 Daily Update 20 Aug 2018
+Daily Update 20 Dec 2018
 Daily Update 20 December 2017
 Daily Update 20 February 2018
 Daily Update 20 January 2018
@@ -226,6 +231,7 @@ Daily Update 20 March 2018
 Daily Update 20 Nov 2018
 Daily Update 20 Sept 2018
 Daily Update 21 Aug 2018
+Daily Update 21 Dec 2018
 Daily Update 21 December 2017
 Daily Update 21 February 2018
 Daily Update 21 January 2018
@@ -254,6 +260,7 @@ Daily Update 23 Nov 2018
 Daily Update 23 Oct 2018
 Daily Update 24 Apr 2018
 Daily Update 24 Aug 2018
+Daily Update 24 Dec 2018
 Daily Update 24 December 2017
 Daily Update 24 January 2018
 Daily Update 24 July 2018
@@ -278,6 +285,7 @@ Daily Update 26 Oct 2018
 Daily Update 26 Sept 2018
 Daily Update 27 Apr 2018
 Daily Update 27 Aug 2018
+Daily Update 27 Dec 2018
 Daily Update 27 December 2017
 Daily Update 27 February 2018
 Daily Update 27 January 2018
@@ -287,6 +295,7 @@ Daily Update 27 March 2018
 Daily Update 27 Nov 2018 - AGM Special
 Daily Update 27 Sept 2018
 Daily Update 28 Aug 2018
+Daily Update 28 Dec 2018
 Daily Update 28 December 2017
 Daily Update 28 February 2018
 Daily Update 28 Jun 2018
@@ -374,6 +383,7 @@ Daily Update 9 Nov 2018
 Daily Update 9 Oct 2018
 Daily Update Special - Gerrard Day
 Dart in Hand - PDC World Darts Preview
+Dart in Hand - PDC World Darts Update 1
 David and Hoggy Q&A
 David Q&A
 Dundee demolition and satisfaction in Spain
@@ -403,6 +413,7 @@ Flagship - International Week Q&A, November 2018
 Flagship - Jambo Jamboree
 Flagship - Leith Lunacy
 Flagship - Ninth Season Wonders
+Flagship - Nothing we didn't already know
 Flagship - Onwards to Osijek
 Flagship - Pictures of my pink purse
 Flagship - Plastic Panic
@@ -420,6 +431,7 @@ Flagship Show - Gunshy
 Flagship: The History of Follow Follow Part Two - Digital
 Follow-Up 5 - Livingston
 Football Room 101
+Football Room 101 - Christmas Special!
 Football Room 101 - Episode 2
 Football Room 101 - Episode 3
 Football Room 101 - Episode 4
@@ -441,6 +453,7 @@ From Tache to Tannadice: Make Mine a Treble
 Games That Changed Our Lives - Bolton
 Games That Changed Our Lives - Bradford City
 Globetrotting Gers
+Globetrotting Gers - Episode 2
 Golden Years - 1992/93: Something's Happening
 Golden Years - Season 1992/93: New Experiences
 Golden Years: 1992-93 - Alchemy
@@ -505,6 +518,7 @@ Heart and Hand's World Cup Preview Episode 3
 Heart and Hand's World Cup Preview Episode 4
 Heart and Hand's World Cup Preview Episode 5
 Hearts v Rangers Postmatch Reaction 2 Dec 2018
+Hibernian v Rangers Postmatch Reaction
 Hibernian v Rangers Postmatch Reaction Pod
 Hibs 1-2 Rangers Postmatch Reaction
 Hibs Postmatch Reaction
@@ -558,6 +572,7 @@ Isco Inferno - Episode 10
 Isco Inferno - Episode 11
 Isco Inferno - Episode 12
 Isco Inferno - Episode 13
+Isco Inferno - Episode 14
 Isco Inferno - Episode 3
 Isco Inferno - Episode 5
 Isco Inferno - Episode 7
@@ -619,6 +634,8 @@ No Pirlo No Party - The Serie A Show: Week 8
 No Pirlo No Party - The Serie A Show: Week 9
 No Pirlo No Party – The Serie A Show: Week 10
 No Pirlo Special - Verona win the Scudetto in 1985
+No Pirlo, No Party - The Serie A Show (Week 15)
+No Pirlo, No Party - The Serie A Show (Week 16)
 No Pirlo, No Party - The Serie A Show (Week 3)
 No Pirlo, No Party - The Serie A Show (Week 5)
 No Pirlo, No Party - The Serie A Show (Week 6)
@@ -665,6 +682,7 @@ Partick Thistle Postmatch Reaction
 Patreon Postmatch Pod: Sheep 1-2 Rangers
 Patreon Q&A Bonus Show
 Patreon-ising - An Introduction
+Patreon-ising - Christmas Special: H&H on Patreon Year 1
 Patreon-ising Episode 1 - Michael McGuire
 Patreon-ising Episode 2 - Alan Bradley
 Patreon-ising Episode 3 - Ray "Tony" Jackson
@@ -673,6 +691,7 @@ Patreon-ising Episode 5 - Chris MacFarlane
 Patreon-ising Episode 6 - Scott McKenzie
 Patreon-ising Episode 7 - Gathering Our Thoughts
 Patreon-ising Episode 8 - Euan Third
+Patreon-ising Episode 9 - Scott McKenzie for real this time
 Q&A with David on Semi-Final and current situation
 Quintessential Quiz
 Rangers 11's - Walter's Return and The Banter Years
@@ -699,12 +718,15 @@ Rangers v Aberdeen Postmatch Reaction 5 Dec 2018
 Rangers v Atletico Mineiro Postmatch Pod
 Rangers v Ayr United Postmatch Reaction 26 Sept 2018
 Rangers v Bury - Postmatch Analysis
+Rangers v Celtic Postmatch Reaction 29 Dec 2018
 Rangers v Corinthians Postmatch Reaction
 Rangers v Dundee Postmatch Reaction 15 Sept 2018
 Rangers v Falkirk Postmatch Reaction Pod
 Rangers v FK Shkupi Postmatch Reaction
+Rangers v Hamilton Postmatch Reaction 16 Dec 2018
 Rangers v Hearts Postmatch Pod
 Rangers v Hearts Postmatch Reaction Pod 7 Oct 2018
+Rangers v Hibs Postmatch Reaction 26 Dec 2018
 Rangers v Kilmarnock Postmatch Reaction 31 Oct 2018
 Rangers v Kilmarnock Postmatch Reaction Pod
 Rangers v Livingston Postmatch Reaction 24 Nov 2018
@@ -741,8 +763,10 @@ RangersBet Remembers...Bruno Fernandes De Souza
 RangersBet Remembers...Celebrity Fans
 RangersBet Remembers...Celebrity Fans 2
 RangersBet Remembers...Championship Manager
+RangersBet Remembers...Christmas Movies
 RangersBet Remembers...Duncan Ferguson
 RangersBet Remembers...El Hadji Diouf
+RangersBet Remembers...Episode 50 - Q&A
 RangersBet Remembers...Eric Cantona
 RangersBet Remembers...Fernando Ricksen
 RangersBet Remembers...Funny Names
@@ -804,6 +828,7 @@ Six of the Best - League Cup Semi-Finals
 Six of the Best - League Wins v Hearts
 Six of the Best - Mark Hateley
 Six of the Best - Nacho Novo
+Six of the Best - New Year Games
 Six of the Best - Old Firm Openers
 Six of the Best - Preseason Friendlies
 Six of the Best - Rangers European Qualifying Rounds
@@ -816,6 +841,7 @@ Six of the Best Episode 3 - Best European Nights of the 2000s
 Spartak Moscow v Rangers Postmatch Reaction
 Special Post Gerrard Unveiling Pod
 St. Johnstone Postmatch Reaction
+St. Johnstone v Rangers Postmatch Reaction 23 Dec 2018
 St. Mirren v Rangers Postmatch 3 Nov 2018
 Staff Study - Dundee Preview
 Staff Study - Hearts Preview
@@ -873,6 +899,9 @@ Tactics Talk Looks Back - Livorno 2-3 Rangers 2006
 Tactics Talk Looks Back - Monaco 0-1 Rangers
 Tatics Talk Looks Back - Rangers 6-1 Dunfermline 2003
 That Lot 0-0 Rangers Postmatch Reaction
+The 50 Greatest Rangers Goals Ever (Part 1)
+The 50 Greatest Rangers Goals Ever (Part 2)
+The 50 Greatest Rangers Goals Ever (Part 3)
 The Advocaat Years - Episode 1
 The Advocaat Years - Episode 10
 The Advocaat Years - Episode 11: Watchalong Special!
@@ -939,6 +968,7 @@ The David and Scot Show - Episode 4
 The David and Scot Show - Episode 5
 The Eck Era - Episode 1
 The Eck Era - Episode 10
+The Eck Era - Episode 11
 The Eck Era - Episode 2
 The Eck Era - Episode 3
 The Eck Era - Episode 4
@@ -962,6 +992,7 @@ The European Hangover - Maradona loves Brest
 The European Hangover - MariBorna Barasic
 The European Hangover - Mon Dieu, what a load of merde
 The European Hangover - Osi-check
+The European Hangover - Out of Gas
 The European Hangover - Panathinaikos will cause WW3
 The European Hangover - Rangers Europa League Group 2018
 The European Hangover - Real Madrid's Boom Box
@@ -994,9 +1025,11 @@ The Games That Changed Our Lives - Il Grande Torino
 The Games That Changed Our Lives - Notts Forest v Man Utd 1990
 The Games That Changed Our Lives - The Miracle on Grass, 1950
 The Games That Changed Our Lives - The Munich Air Disaster
+The Games that Changed Our Lives - World Cup Tales
 The H&H Phone-In 22 April 
 The H&H Phone-In 28 January 2018
 The Hangover's Hair of the Dog - Europa League final reaction
+The Heart and Hand Annual Christmas Show!
 The Heart and Hand Fantasy Football League - Introduction
 The Heart and Hand Patreon Player of the Year Show - Results!
 The Heart and Hand Phone-In Show - 02 Sept
@@ -1020,10 +1053,13 @@ The Number Ones - Simonsen and Robinson
 The Number Ones - Stefan Klos
 The Overseas Bears Present 'Bears Abroad' - Episode One
 The Preview - Aberdeen 5 Dec 2018
+The Preview - Celtic 29 Dec 2018
 The Preview - Dundee 9 Dec 2018
 The Preview - Hamilton 16 Dec 2018
 The Preview - Hearts 2 Dec 2018
+The Preview - Hibernian 18 Dec 2018
 The Preview - Rapid Vienna 13 Dec 2018
+The Preview - St. Johnstone 23 Dec 2018
 The Preview - Villarreal
 The Quintessential Quiz - Episode 2
 The Quintessential Quiz - Episode Four
@@ -1032,6 +1068,8 @@ The Quintessential Quiz - Week 10
 The Quintessential Quiz - Week 11
 The Quintessential Quiz - Week 12
 The Quintessential Quiz - Week 13 (Round 2)
+The Quintessential Quiz - Week 14 (Round 2)
+The Quintessential Quiz - Week 15 (Round 2)
 The Quintessential Quiz - Week 3
 The Quintessential Quiz - Week 4
 The Quintessential Quiz - Week 5
@@ -1049,6 +1087,7 @@ The Road To Manchester 10 Years On - Werder Bremen
 The Road to Manchester: 10 Years On - The Final
 The Springfield Files - Moe Szyslak
 The Springfield Files - Mr. Burns: the Early Years
+The Springfield Files - The 3 Faces of Phil Hartman
 The Staff Study - Aberdeen
 The Staff Study - Dundee 15 Sept 2018
 The Staff Study - Hamilton 21 Oct 2018
@@ -1128,17 +1167,20 @@ This Week in Rangers History - Episode 3
 This Week in Rangers History - Episode 4
 This Week in Rangers History - Episode 5
 Time Capsule: Mark Walters Interview Special
+Top of the Flops - Andy Webster
 Top of the Flops - Colin Hendry
 Top Of The Flops - Daniel Prodan and Sebastian Rozental
 Top Of The Flops - Dragan Mladenović
 Top Of The Flops - Francis Jeffers
 Top Of The Flops - Ian Black
 Top of the Flops - James Beattie
+Top Of The Flops - Jérôme Rothen
 Top Of The Flops - Jonas Thern
 Top Of The Flops - Michael Ball
 Top Of The Flops - Nuno Capucho
 Top of the Flops - Oleg Salenko
 Top Of The Flops - Philippe Senderos
+Top Of The Flops - Scandinavian Double
 Top of the Flops - Theo Snelders
 Top Of The Flops 2 -  Luigi Riccio
 Top of the Flops Ep 1 - Filip Sebo
@@ -1163,13 +1205,16 @@ When The Seagulls Follow the Trawler - The EPL Pod (S2 Ep1)
 When The Seagulls Follow the Trawler - The EPL Show (S2 E5)
 When the Seagulls Follow the Trawler - The EPL Show (S2 E6)
 When The Seagulls Follow the Trawler - The EPL Show (S2 E7)
+When the Seagulls Follow the Trawler - The EPL Show (S2 E7)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W 12)
+When the Seagulls Follow the Trawler - The EPL Show (S2 W 16)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W10)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W13)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W14)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W8)
 When the Seagulls Follow the Trawler - The EPL Show (S2 W9)
 When the Seagulls Follow the Trawler - The EPL Show Episode 3
+When the Seagulls Follow the Trawler - The EPL Show: Half-Time Report Cards 
 When the Seagulls Follow the Trawler - The EPL Show: S2 W11
 When the Seagulls Follow the Trawler – The EPL Show (S2 W15)
 When the Seagulls Follow the Trawler – The EPL Show (S2 W16)

@@ -38,4 +38,4 @@ Rangers TV : https://rangers.co.uk/tv/
 
 Rangers : http://www.rangers.co.uk/
 
-Last updated : December 15, 2018
+Last updated : December 30, 2018

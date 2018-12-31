@@ -11634,6 +11634,7 @@ happy-birthday-willie-johnston-wee-bud.13296
 happy-blue-year.14731
 happy-burns-day-bears.17332
 happy-new-year-bears-and-bearettes.14482
+happy-new-year-bears.60601
 happy-new-year-rangers-fc.14730
 happy-new-year.14728
 happy-new-year.14729
@@ -18752,6 +18753,7 @@ narsa-next-year.36240
 nasa-spacecentre-tickets.55453
 nashville-aberdeen-game.56920
 nasri-has-doping-ban-increased.39139
+nasri-signs-for-west-ham.60602
 nasty-clash-of-heads.56541
 nat-mp-takes-paranoia-to-new-heights.46429
 natalie-sawyer-axed-by-sky.24379
@@ -24714,7 +24716,6 @@ roger-mitchell-on-the-new-tv-deal.54671
 roger-mitchell-tells-celtic-fans-to-stop-being-obsessed-with-rangers.57663
 rogers-bites-the-hand-that-fed-it.28643
 rogic-bates-and-the-compliance-officer.22635
-rogic-not-even-in-squad-today.60432
 rogic.58901
 roi-v-ni.54824
 roll-call-for-bury.35857
@@ -31672,6 +31673,7 @@ transfer-window.29590
 transfer-window.30350
 transfer-window.53040
 transfer-window.53976
+transfer-window.60603
 transfer-windows-good-or-bad.53060
 transfermarkt-market-values.42416
 transferring-a-st-do-you-keep-your-purchase-history-tc-points-etc.51044

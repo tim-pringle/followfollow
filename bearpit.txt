@@ -8526,6 +8526,7 @@ everton-get-their-new-left-back.38890
 everton-going-for-it-this-season.40617
 everton-lad-on-loan.51418
 everton-named-one-of-the-most-depressing-teams-to-support.32311
+everton-pumped.60705
 everton-sack-ronald-koeman.6839
 everton-struggling-to-get-a-mgr-where-does-that-leave-us.9370
 everton-style-survey.30759
@@ -9478,6 +9479,7 @@ foreign-rangers-fan-review-of-aberdeen-and-county-games.18276
 foreign-rangers-fan-review-of-of.4251
 foreign-refs-for-league-games.47063
 foreign-white-guy-shouting-into-fanzone.13088
+forest-v-leeds-on-sky-sports-just-now.60712
 forest-vs-newcastle-carabao-cup.44219
 forest-weigh-up-january-john-mcginn-move.109
 forever-and-ever.14363
@@ -20152,6 +20154,7 @@ on-this-day-february-8th.18953
 on-this-day-february-9th.19067
 on-this-day-gerrard-rtv-video.52293
 on-this-day-in-1853-alexander-watson-hutton-was-born.33393
+on-this-day-in-1943-rangers-beat-the-traitors-8-1.60706
 on-this-day-january-10th.15609
 on-this-day-january-11th.15714
 on-this-day-january-12th.15829
@@ -24918,6 +24921,7 @@ rotherham-v-scunthorpe-2nd-leg-semi-final-championship-playoff.30761
 rough-cost-of-rangers-official-flight-sport-options.44907
 round-of-32.56328
 round-yes-ya-cheating-russian-bastards.44350
+rounding-the-goalie.60709
 routes-to-osijek.37530
 routes-to-vienna.44671
 routine-spl-wins-at-ibrox-again.47880
@@ -27178,6 +27182,7 @@ souness-last-night.42318
 souness-made-mistakes-too.43707
 souness-on-mccoist-return-%E2%80%9Canything-is-possible-he-was-very-popular-%E2%80%9D.6809
 souness-on-signing-johnston-and-leaving-ibrox.5271
+souness-on-ss-with-female-pundits.60707
 souness-on-ssn-between-11-and-12-talking-about-rangers.7266
 souness-on-stevie-g.39135
 souness-on-talksport-right-now-talking-about-my-sporting-life.13967
@@ -27681,6 +27686,7 @@ stanza-event-calendar.2318
 star-sixes-at-the-hydro.51103
 star-sixes-at-the-hydro.58986
 star-sixes-glasgow.54230
+star-sixes-masters-football-this-weekend-at-the-sse-hydro.60711
 stargazers-of-followfollow.773
 start-barjonas-tomorrow.7599
 start-conversation.563
@@ -27772,6 +27778,7 @@ stephen-robinson.6338
 stephen-thompson-ex-rangers-striker-has-his-say.39833
 stephen-warnock-gerrard.33748
 sterling-trips-on-the-turf-referee-gives-a-penalty.53798
+steve-and-alex-bruce-at-the-game-on-saturday.60713
 steve-archibald.31540
 steve-bruce-sacked-by-villa.49200
 steve-bruce-to-remain-aston-villa-manager.38167
@@ -29085,6 +29092,7 @@ the-bbc-scotland-boycott-of-us.35957
 the-bbc-torbett.34935
 the-bbc-world-cup-tapestry-trailer.33757
 the-bbc.12224
+the-bbcs-new-show-les-miserables-on.60716
 the-bear-hunter-the-search-for-rangers-nine-in-a-row-heroes.429
 the-bear-hunter.7113
 the-bear-pit.43353

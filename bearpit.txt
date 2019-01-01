@@ -115,6 +115,7 @@
 11-february-1976-rangers-pools-top-pool-payout-was-%C2%A314-523.41752
 11-games-since-we-beat-them.14222
 11-matches-between-now-and-the-end-of-december.55314
+11-mins-of-extra-time-in-villa-v-qpr-game.60720
 11-right-footers-started-last-nights-match.36133
 11-vs-st-johnstone.12731
 116-years-ago-today.24894
@@ -1021,6 +1022,7 @@ a-third-signing-today.44674
 a-tim-appearing-in-our-trade-mark-judgement-from-last-year.49213
 a-tim-at-the-gym.1155
 a-tim-in-his-living-room-today.30307
+a-time-to-reflect.60728
 a-title-that-is-there-for-the-taking-slipping-away.59555
 a-title-winning-team-from-spfl-pool.30122
 a-top-class-manager-needed-backed-with-cash.25972
@@ -3998,6 +4000,7 @@ big-eddie-hererra.12794
 big-festive-period.11584
 big-fifty-today.9181
 big-flags-on-thursday.55895
+big-game-atmosphere.60729
 big-game-players.14473
 big-game-tomorrow.20455
 big-game-tomorrow.27735
@@ -11344,6 +11347,7 @@ grezda-certain-to-start-v-hearts.56399
 grezda-confirmed.44691
 grezda-dorrans-and-rossiter-training-today.46255
 grezda-injured-or-dropped.59548
+grezda-injury.60730
 grezda-interview-rtv.59515
 grezda-last-night.55033
 grezda-looking-sharp-in-training.49194
@@ -11654,7 +11658,6 @@ happy-birthday-willie-johnston-wee-bud.13296
 happy-blue-year.14731
 happy-burns-day-bears.17332
 happy-new-year-bears-and-bearettes.14482
-happy-new-year-bears.60601
 happy-new-year-from-everyone-at-bluebells-puerto-del-carmen.60635
 happy-new-year-rangers-fc.14730
 happy-new-year.14728
@@ -12089,6 +12092,7 @@ helicopter-sunday.24539
 hellas-and-hamburg.44937
 hello-bear.77
 hello-hello-new-forum.23
+hello-hello-they-are-the-birthday-boys.60719
 hello-hello.37560
 hello-hello.38940
 hello-is-it-me-youre-looking-for.60
@@ -12207,6 +12211,7 @@ hibs-allocation-could-be-half-of-south-stand-again.54825
 hibs-and-aberdeen-fixtures.26867
 hibs-assistant-garry-parker-reveals-what-staff-are-doing-to-keep-players-spirits-high.56905
 hibs-at-the-piggery.50824
+hibs-australian-player-suffers-knee-injury.60731
 hibs-away-e-mails-due-today.27621
 hibs-away-pubs.10429
 hibs-away-rescheduled.49319
@@ -22875,6 +22880,7 @@ rangers-3-cowdenbeath-0.11758
 rangers-3-inter-milan-1-uefa-cup-84-85.53667
 rangers-3rd-kit-top.5196
 rangers-4-2-corinthians-highlights-reaches-over-1-4-of-a-million-views-and-counting.16027
+rangers-4-celtic-0-january-1st-1963.60732
 rangers-4-tramps-fc-from-1999-on-sky-403-right-now-01-45-gmt.39327
 rangers-4-v-4-celtic-reserve-s-c-1974-replay-score.45765
 rangers-5-1-st-johnstone-armed-forces-day-2018.47930
@@ -24819,6 +24825,7 @@ rooney-96th-minute-mls.41333
 rooney-gets-2yr-driving-ban-but-he-will-be-raging-even-more.2833
 rooney-rule.15539
 rooney.29988
+roots-of-the-rivalry-the-old-firm.60725
 rosenberg-sack-their-manager.37540
 rosenborg.37428
 rosevale-bus-on-sunday.18994
@@ -25347,6 +25354,7 @@ sad-day-for-the-forfar-true-blues-rsc.33430
 sad-news-about-fernando-ricksens-condition-in-dutch-newspapers.29581
 sad-news-re-steven-baxter.14747
 sad-news-regarding-an-old-ff-admin-pastmaster95-244.33859
+sad-news.60724
 sad-occasion.46373
 sad-story-of-fort-william-fc.53457
 sadio-mane-out-for-up-to-six-weeks.5476
@@ -27140,6 +27148,7 @@ song-suggestion-i-know-i-know.16457
 song-suggestion-oh-oh-lets-go-steven-gerrard.40986
 song-suggestion.13625
 song-suggestion.31613
+song-suggestion.60718
 song-suggestions.17384
 songbook-yesterday.60316
 songs-for-candeias-and-tavernier.20623
@@ -27742,7 +27751,6 @@ staunch-socks-almost-as-good-as-red-and-black.17795
 staunch.42815
 staunch.48165
 stay-calm-tomorrow-bears.49734
-stay-safe-bears-for-the-bells.60592
 stay-safe-bears.27844
 stay-safe-today-bears.27859
 stay-till-the-end.30243
@@ -29092,7 +29100,6 @@ the-bbc-scotland-boycott-of-us.35957
 the-bbc-torbett.34935
 the-bbc-world-cup-tapestry-trailer.33757
 the-bbc.12224
-the-bbcs-new-show-les-miserables-on.60716
 the-bear-hunter-the-search-for-rangers-nine-in-a-row-heroes.429
 the-bear-hunter.7113
 the-bear-pit.43353
@@ -29995,6 +30002,7 @@ the-number-10-position-would-you-prefer.11669
 the-number-9-shirt.37743
 the-nutter-that-is-john-james-kirk-and-craig-whyte.10122
 the-obligatory-girfy-michael-stewart-thread.56502
+the-obroons.60722
 the-obsession-is-marvellous.28836
 the-official-%E2%80%98get-it-right-up-you-you-bitter-hater-rob-maclean%E2%80%99.47379
 the-official-%E2%80%98song-for-stevie%E2%80%99-thread.28936

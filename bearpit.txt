@@ -3772,6 +3772,7 @@ best-clobber-on-and-looking-your-best-for-aberdeen.10836
 best-crisps-in-a-roll.513
 best-crosser-of-a-ball.16711
 best-design-on-football-pitch-grass-youve-seen.47175
+best-english-club-you-have-been-to-watch.60808
 best-epl-in-years.38545
 best-ever-european-11.45981
 best-excuse-yet.60624
@@ -6384,6 +6385,7 @@ could-this-week-be-any-better.42344
 could-we-cash-in-on-wes-this-summer.24913
 could-we-finish-as-low-as-4th.24573
 could-we-have-a-squad-for-55-2018-19.14856
+could-we-make-davis-the-captain.60806
 could-we-potentially-spend-%C2%A36-million-before-the-window-closes.41609
 could-we-sideline-the-media-what-cost-would-there-be.23638
 could-we-still-sign-a-striker-who-is-without-a-club.48426
@@ -21541,6 +21543,7 @@ pena-injured-tonight.7186
 pena-injured.9757
 pena-instead-of-miller.11187
 pena-is-back-in-glasgow.58208
+pena-linked-with-turkish-team.60809
 pena-maybe-following-pedro.14986
 pena-missing.29990
 pena-more-effective-partner-for-morelos.2998
@@ -23312,7 +23315,6 @@ rangers-looking-for-fans-in-slovenia-to-give-info-on-the-cops-behaviour.42765
 rangers-looking-for-more-supporters-clubs-to-register-on-official-website.899
 rangers-lose-out-in-fresh-court-battle-with-sports-direct.51856
 rangers-lotto-mccrorie-barjo-proof-it-works.14317
-rangers-lotto-money-debited-my-account.32844
 rangers-lotto-rising-stars-etc.9971
 rangers-lotto-volunteers-required-home-match-days.20692
 rangers-lotto.11190
@@ -23546,6 +23548,7 @@ rangers-set-for-steven-davis-swoop-belfast-telegraph.52781
 rangers-set-to-begin-transformation-of-hummel-training-centre-in-november.51760
 rangers-set-to-host-revamped-fan-zone-at-ibrox-ahead-of-first-home-game.34192
 rangers-set-to-host-revamped-fan-zone-at-ibrox-ahead-of-first-home-game.34194
+rangers-set-to-seal-sensational-swoop-for-ex-rangers-midfielder-steven-davis.60810
 rangers-settle-debt-facility.55813
 rangers-shirts-from-the-past.29031
 rangers-shop-catalogue-1994-95.50597
@@ -35054,6 +35057,7 @@ wont-see-the-game-could-you-wait-until-the-rtv-as-live-screening-on-friday.44126
 woodburn-playing-for-wales.583
 woodwork-not-relevant-in-modern-terms.11402
 word-cup-quarter-final-betting.36007
+words-at-todays-remembrance-service.60805
 words-matter.14931
 words-to-describe-today.25954
 work-being-carried-out-at-ibrox-today.20130

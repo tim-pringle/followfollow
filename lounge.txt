@@ -2725,6 +2725,7 @@ brick-lane-in-london.19316
 bridge-cameras-any-good.24450
 bridge-cameras.32158
 bridge-collapse-in-genoa.41498
+bridge-collapse-in-moscows-gorky-park-on-new-years-eve.60812
 bridgeton-walk.36638
 bright-on-netflix.15415
 brighton.10324
@@ -4884,6 +4885,7 @@ edinburgh-restaurant-recommendations.35020
 edinburgh-restaurant-suggestion-please.5834
 edinburgh-restaurants-thread.59668
 edinburgh-rugby-new-strip-blue-white-and-orange.32294
+edinburgh-to-glasgow-central.60807
 edinburgh-tops-uk%E2%80%99s-list-of-unsafe-gas-appliances.12129
 edinburgh-trams.34456
 edinburgh-uni-admissions.51972
@@ -5732,6 +5734,7 @@ follow-follow-euro-millions-syndicate-3-7th-november.8335
 follow-follow-euro-millions-syndicate-30-3rd-april.24213
 follow-follow-euro-millions-syndicate-30-4th-december.56000
 follow-follow-euro-millions-syndicate-31-4th-september.44184
+follow-follow-euro-millions-syndicate-4-8th-jan.60813
 follow-follow-euro-millions-syndicate-4-8th-may.28636
 follow-follow-euro-millions-syndicate-5-9th-january-2018.14956
 follow-follow-euro-millions-syndicate-5-9th-october.49320
@@ -6481,6 +6484,7 @@ golf-at-the-carrick-advice-needed.24347
 golf-clash-game-on-the-phone.2793
 golf-clash-new-group-android-ios.51144
 golf-clash-rangers-f-c-clan.48998
+golf-clash.60811
 golf-clubs-novice.26368
 golf-course-with-full-greens-neer-day-ayrshire.14673
 golf-gear.35324

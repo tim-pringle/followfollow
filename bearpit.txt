@@ -6801,6 +6801,7 @@ daniel-candeias.46700
 daniel-candeias.46750
 daniel-candeias.47933
 daniel-candeias.49893
+daniel-candieas-good-player-but-do-we-need-better.60844
 daniel-cousin-appointed-gabon-manager.48249
 daniel-cousin.9251
 daniel-levy.6087
@@ -13207,6 +13208,7 @@ ibrox-pitch-update.32879
 ibrox-pitch.36754
 ibrox-pitch.38747
 ibrox-pre-1978-thread.877
+ibrox-pro-evo-19.60845
 ibrox-retractable-tunnel.27131
 ibrox-seat-view.38977
 ibrox-seating-pics.38576

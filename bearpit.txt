@@ -4371,6 +4371,7 @@ borussia-dortmund-12-lol-year-old.2117
 borussia-dortmund-amateurs.12330
 borussia-dortmund-champions-league-september-1995.54475
 borussia-dortmund-tickets.50857
+borussia-dortmund.60848
 bosman-deals.54062
 bosmans.54611
 bosnia-v-belgium.5234
@@ -7565,6 +7566,7 @@ does-anybody-else-hate-the-transfer-window-final-day.18068
 does-anybody-know-what-happened-to-the-%E2%80%98ifyouknewtheirhistory%E2%80%99-website.30534
 does-anybody-remember-the-beast.21374
 does-anyone-else-not-see-the-fuss-around-the-league-cup-games.48667
+does-anyone-else-sometimes-miss-the-blood-and-guts-type-football-of-yesteryear.60849
 does-anyone-else-think-murty-wont-last-the-season.13741
 does-anyone-enjoy-the-ibrox-match-day-experience.23208
 does-anyone-go-to-watch-wimbledon-on-here.4824

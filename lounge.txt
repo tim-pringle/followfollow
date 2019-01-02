@@ -1263,6 +1263,7 @@ anyone-else-having-issues-with-sky-broadband.14318
 anyone-else-having-major-issues-with-pop-ups-today.15739
 anyone-else-never-tasted-pasta.6131
 anyone-else-on-twitter-who-is-blocked-by-wings.14903
+anyone-else-patched-the-smokes.60752
 anyone-else-still-seeing-ads.15017
 anyone-else-struggling-to-sleep.35248
 anyone-else-without-running-water-tonight.12974
@@ -1763,6 +1764,7 @@ baileys-whisky-coffees-thread.59370
 baker-street-covered-foo-fighters.10868
 baku-bears-%E2%80%93-a-wee-bit-of-advice-please.55859
 balance-transfer-advice.34798
+balbir-restaurant.60784
 balenciaga-clothing.24790
 bali-honeymoon-and-earthquakes.55209
 bali-plane-crash.53027
@@ -1790,6 +1792,7 @@ bank-holiday-weekend-with-sunny-weather.29349
 bank-of-england-base-rate-held-at-0-5.29873
 bank-of-scotland-ppi-claim.36013
 bankruptcy-question.40843
+banks-in-scotland-open-today.60771
 banned-dove-advert.5413
 banning-water-off-a-dugs-back.56784
 bannisters-finnieston.12662
@@ -2142,6 +2145,7 @@ best-emulators-for-mobile.9876
 best-estate-agent-for-house-selling.10916
 best-euro-rates-today-collection-north-glasgow.45844
 best-fine-dining-restaurants-%E2%80%94-poll-by-tripadvisor.59018
+best-flea-prevention-for-dogs.60789
 best-foreign-ex-glasgow-centre.4816
 best-free-parking-for-o2-academy.56839
 best-free-social-media-dashboard.44310
@@ -3149,6 +3153,7 @@ car-bodywork-repairs.5633
 car-break-downs.15840
 car-breakdown.15038
 car-breakers.29576
+car-buying-leasing.60774
 car-code-readers.16202
 car-colour.55198
 car-crash.9245
@@ -3715,6 +3720,7 @@ coffee.43145
 cohabitation-agreements.6260
 coin-collectors.29268
 coincidences.16692
+cold-flu-anyone-else-got-it.60785
 coldwar_steve-one-of-twitters-finest.35807
 colin-mcrae.51207
 colin-murrays-new-show-on-r2.24817
@@ -4073,6 +4079,7 @@ curryfrenzy-com.56900
 curse-of-oak-island-history-channel.15940
 cursed-families.36172
 cursor-bouncing-about-when-typing-on-here.27384
+curtis-pritchard-attack-at-the-dancing.60782
 curved-tv.54228
 cushman-wakefield-glasgow.48537
 custom-football-scarf.56880
@@ -4242,6 +4249,7 @@ dealing-with-damp.12602
 dealing-with-dementia.30192
 dealing-with-massive-kids-problems.7600
 dealing-with-yahoo-related-to-in-laws.19849
+dean-ford-has-died.60780
 dear-bmw-driver.31810
 death-at-bellgrove-station.46319
 death-in-paradise.15095
@@ -4947,6 +4955,7 @@ elf-on-the-shelf.57424
 elite-dangerous.18119
 elite-energy-cavity-insulation.26663
 elizabeth-hurley-again.54792
+elizabeth-hurley-happy-new-year.60775
 elizabeths-secret-agents.6960
 elkie-brooks.32673
 ellie-goulding-paris-fashion-week.4772
@@ -5153,6 +5162,7 @@ expectations-for-this-season.39247
 expensive-electricity-in-pennsylvania-and-the-beauty-of-the-human-being.13956
 expensive-watches-why.55849
 experience-of-hmrc.21829
+experienced-sales-professional-looking-for-new-role.60763
 experts-say-new-snp-report-would-have-won-indyref.31864
 explaining-dreams.34273
 exploding-chocolate-teacakes.18843
@@ -5531,6 +5541,7 @@ first-cruise-caribbean-or-other.42288
 first-dates-contestant-criticised-for-claiming-to-be-trans-racial.31719
 first-foot.14864
 first-goalscorer-bet.34316
+first-great-tune-of-2019.60792
 first-group-buses-service-glasgow-area-to-be-stopped-within-1-hour-extreme-weather.21086
 first-headliner-for-glastonbury-announced.54820
 first-holiday-abroad-with-an-infant-any-recommendations.18348
@@ -7519,6 +7530,7 @@ if-mrs-may-has-sold-out-re-brexit-where-does-that-leave-the-conser.36103
 if-only-they-had-that-extra-letter.26798
 if-southern-ireland-commemorates-the-boyne-on-its-postage-stamps.5212
 if-the-falklands-war-took-place-today.39172
+if-the-monarchy-ended.60764
 if-there-was-a-dance-dj-you-would-like-to-kick-in-the-balls.2266
 if-there-was-a-new-eu-ref-poll.57438
 if-you-are-thinking-of-having-children-or-just-had-a-baby-please-read-this-childhood-leukaemia.31338
@@ -7974,6 +7986,7 @@ jamie-harron.5193
 jamie-oliver-racist.42735
 jamies-italian-to-close.16092
 jamiroquai-age-has-not-been-kind.33413
+jan-2nd-sash-bash.60768
 jan-break.14321
 jane-goodley-twitter.55146
 jane-novotna-dead-at-49.9943
@@ -10404,7 +10417,7 @@ office-chairs.54784
 office-for-mac.28473
 office-pranks.55479
 official-country-music-thread.49760
-official-darts-thread-world-championship.2525
+official-darts-thread.2525
 official-fantasy-premier-league-thread.54866
 official-ff-cycling-club.357
 official-ff-fifa-leagues-thread.49639
@@ -13001,6 +13014,7 @@ sky-go-issues-on-laptop.54292
 sky-lounge-glasgow-airport.39055
 sky-mobile-iphone-x.37410
 sky-mobile.7481
+sky-new-customer-offers.60753
 sky-news-and-gerry-adams.59390
 sky-news-reporting-at-youtube-hq.24805
 sky-news-twitter-attempted-car-jacking-video.10181
@@ -15036,6 +15050,7 @@ tooth-veneers-rough-price-per-tooth.21667
 tooth-whitening-good-or-bad.19425
 toothace.12376
 toothache-short-term-remedy.39435
+toothpaste-recommendations.60778
 top-10-beatles-songs.53304
 top-200-dentist-earnings-2013-14.33060
 top-3-punk-bands.5095

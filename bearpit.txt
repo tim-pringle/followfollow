@@ -14258,7 +14258,7 @@ james-dornan-msp-peddling-more-lies.24115
 james-dornan-msp-shows-his-bigotry-on-twitter.22259
 james-dornan-snp-and-his-fake-concern-for-our-fans.44934
 james-dornan-snp-msp-on-twitter-again.30334
-james-dornan-snp.60826
+james-dornan-snp.60830
 james-dornan.46485
 james-forres-to-juventus-rumours-true.55371
 james-forrest-and-calum-mcgregor.55116
@@ -23595,6 +23595,7 @@ rangers-sport-psychologist.23799
 rangers-squad-as-at-22-07.37795
 rangers-squad-as-at-start-of-31-01.18019
 rangers-squad-v-scum-squad.20790
+rangers-st-pats-arrival-at-edmiston-drive.60832
 rangers-star-alfredo-morelos-being-targeted-by-bristol-city.16782
 rangers-star-alfredo-morelos-sweating-over-possible-ban-for-any-of-three-incidents-against-celtic.60492
 rangers-starting-11-avg-age.45132
@@ -33177,6 +33178,7 @@ wednesday%E2%80%99s-back-pages.53699
 wednesday-betting.18027
 wednesday-big-game-and-big-performance.52593
 wednesday-cl-fixtures.8121
+wednesday-epl.60829
 wednesday-football-including-early-kick-offs.22872
 wednesday-game-in-london.17811
 wednesday-game-in-london.58725

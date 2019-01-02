@@ -1448,6 +1448,7 @@ appeal-to-find-relatives-of-great-war-servicemen.6154
 appealing-paypal.25555
 appendicitis.16574
 apple-braehead-and-customer-service.24893
+apple-cider-vinegar-detox.60840
 apple-event-today-12th-september.46348
 apple-faces-lawsuits-over-its-intentional-slowing-of-older-iphones.13640
 apple-home-pod.55047
@@ -3828,6 +3829,7 @@ content-of-advert-banner-at-top-of-page.40176
 contesting-a-lawyers-bill.52116
 continuity-devolution-and-the-eu-withdrawal-bill.11593
 contract-hire-car-servicing-question.20080
+contracting-without-a-contract.60841
 contracting.54854
 contractor-umbrella-company.6613
 controversial-quiz-team-names.24006
@@ -14462,7 +14464,6 @@ the-needs-of-the-many-outweigh-the-needs-of-the-few.5344
 the-new-%C2%A310-note.15655
 the-new-bbc-channel-based-in-glasgow.46025
 the-new-coral-album.41801
-the-new-it-movie.955
 the-new-lounge-mlb-2017-thread.1556
 the-new-mcdonald%E2%80%99s-staff-member-of-the-month.21701
 the-new-mclaren-mcl33.20397
@@ -14473,6 +14474,7 @@ the-new-predator-movie.30033
 the-new-rangers-shop.58364
 the-new-what-we-all-reading-just-now.317
 the-new-york-thread.2676
+the-next-bond-theme-song.60842
 the-nfl-season-2017-2018.31
 the-ninth-wave-glasgow-band.52774
 the-nixon-dinners-that-taught-americans-to-stop-worrying-and-love-peking-duc.6122

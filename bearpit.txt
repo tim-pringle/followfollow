@@ -23562,6 +23562,7 @@ rangers-radio.11074
 rangers-radio.30168
 rangers-radio.4098
 rangers-radio.604
+rangers-reaction-to-the-semi-final-v-motherwell.60979
 rangers-record-as-worlds-most-successful-club-under-serious-threat.57452
 rangers-record-signings-quiz.41526
 rangers-records.10608
@@ -33230,6 +33231,7 @@ we-will-go-above-them.54534
 we-will-not-be-mastered.59678
 we-will-take-them-at-ibrox.45117
 we-will-win-the-league.56178
+we-won%E2%80%99t-accept-any-less-than-30mil-for-tierney.60980
 we-won%E2%80%99t-be-fooled-again.13127
 we-won-today.58385
 we-would-have-done-that-at-parkhead.60064

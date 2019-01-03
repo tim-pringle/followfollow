@@ -1889,7 +1889,6 @@ and-we-think-kenny-miller-is-old.15713
 and-we-thought-mccrories-back-pass-was-bad.9996
 and-when-we-left-a-bit-of-litter-in-barcelona.10238
 and-with-that-draw-we-are-back-on-our-own-coefficient-instead-of-the-country-coefficient.52079
-and-yet-they-still-wont-wear-poppies.60838
 andalucia-training.34878
 andalusia-training-camp.33678
 anderlecht%E2%80%99s-uefa-charge-offers-hope-for-fleeced-liverpool-and-united-fans.17971
@@ -2026,6 +2025,7 @@ angela-haggerty.37252
 angriest-youve-ever-got-at-a-match.55125
 angry-ajax-fans-stop-team-bus.26212
 angry-celtic-fan-old-firm-defeat-rant.60496
+angus-gunn-going-all-the-way.60881
 animated-football-commentary.43430
 ankaragucu-admiration-for-morelos-and-rangers.50112
 ann-budge-hits-back-at-celtic.49324
@@ -2205,6 +2205,7 @@ any-news-on-bates.25152
 any-news-on-ejaria.58163
 any-news-on-mcauley.58955
 any-news-on-millers-injury.12813
+any-news-on-morelos-citing.60889
 any-news-on-rangers-winter-2019-plans.38530
 any-news-on-ryan-jack.40523
 any-news-on-wallace.2519
@@ -2290,6 +2291,7 @@ anybody-figuered-out-how-to-watch-bbc-wc-in-4k.33896
 anybody-from-harthill-going-on-sunday.44090
 anybody-got-any-ideas-of-full-backs-sg-could-be-looking-at.29523
 anybody-got-last-nights-goals.40816
+anybody-have-a-copy-of-the-full-match-from-saturday.60899
 anybody-having-technical-issues-with-the-forum.25453
 anybody-in-cala-dor-area.3422
 anybody-noticed-a-forum-change.24187
@@ -3969,6 +3971,7 @@ bha-a-breath-of-fresh-air-in-the-epl.7823
 bheast-fc-manager-says-it%E2%80%99s-the-best-rangers-side-he%E2%80%99s-faced.21499
 bheasts-end-hearts-unbeaten-home-record-ssn.29416
 bheasts-game-in-goa.14198
+bheasts-going-berserk-kerrydale-meltdown-style.60909
 bheggars-anti-trump-banner.12332
 bheggars-game-march-10th.16490
 bheggars-sign-arzani-on-loan-from-man-city.42165
@@ -4215,6 +4218,7 @@ blood-and-snotters-type-performance-required-tonight.12642
 bloody-subs.53989
 blue-all-over-fun-run-5k.31001
 blue-badge-parking-at-ibrox.40556
+blue-brazil-game.60882
 blue-heaven.34080
 blue-is-the-colour.41052
 blue-nose-bar-harrogate-for-tomorrow.7470
@@ -4350,6 +4354,7 @@ borna-bari%C5%A1i%C4%87-video.40283
 borna-bari%C5%A1i%C4%87.43681
 borna-barisic-4-year-deal-confirmed-welcome-to-rangers.40098
 borna-barisic-injury.51250
+borna-barisic-injury.60892
 borna-barisic-not-eligible-for-europe.43638
 borna-barisic-not-playing-for-nk-osijek-today.39822
 borna-barisic-should-be-in-contention-for-livingston-next-weekend.47848
@@ -4373,6 +4378,7 @@ borussia-dortmund-champions-league-september-1995.54475
 borussia-dortmund-tickets.50857
 borussia-dortmund.60848
 bosman-deals.54062
+bosmans-we-should-be-looking-at.60887
 bosmans.54611
 bosnia-v-belgium.5234
 boss-that-i-am-made-up-for-him.28891
@@ -4460,6 +4466,7 @@ breakfast-tomorrow.22308
 breakfast-with-broxi.11303
 breakfast-with-santa-at-ibrox.54454
 breaking-new-blackpool-fc-has-been-put-up-for-sale.9024
+breaking-news-on-sky-defoe-to-us-on-18-month-long-loan.60918
 breaking-on-sky-news-man-arrested-at-buckingham-palace-suspicion-of-carrying-firearm.47856
 brechin-city-win-1st-league-game-in-470-days.41094
 brechin-city.23794
@@ -5764,6 +5771,7 @@ chris-sutton-as-a-football-analyst.41231
 chris-sutton-facing-bill-for-tax-avoidance-scheme.34763
 chris-sutton-on-bt-sports-champions-league-highlights.47273
 chris-sutton-says-van-dijk-is-better-than-hazard-modric-or-neymar.51285
+chris-sutton-this-is-shambolic-and-buffoonery-of-the-highest-order.60915
 chris-sutton.4454
 chris-the-bitter-one-mutton.31786
 chris-wilder.7578
@@ -6460,7 +6468,9 @@ coventry-city-v-exeter-city-league-two-play-off-final.32001
 coventry-fan-goes-on-the-pitch-to-confront-his-players.6193
 coverage-of-their-euro-tie.38195
 cowdenbeath-allocation-and-ticket-prices.59265
+cowdenbeath-emails-out-later-today.60906
 cowdenbeath-game-on-friday-night.57722
+cowdenbeath-tickets.60922
 cowdenbeath-v-rangers-friday-18th-at-7-45pm.57350
 cr7-all-450-goals.37681
 cracking-florida-cup-highlights-video.15907
@@ -7150,7 +7160,9 @@ deficient-of-guts-and-fortitude.13685
 definite-handball-for-3rd.40759
 definitely-out-the-door.24719
 definitive-list-of-players-linked-summer-2018.30892
+defoe-comes-morelos-stays-what-happens.60924
 defoe-or-solanke.40275
+defoe-shirt-printing.60929
 defoe-solanke.30875
 defoe.30018
 del-piero-came-close-to-being-a-yahoo.46361
@@ -7254,6 +7266,7 @@ development-game-vs-man-utd.19470
 development-league-fixture-tonight.4044
 development-match-vs-spartak.51521
 development-side-beat-utrecht-3-2.22296
+development-side-last-season-v-this-season.60886
 development-sqaud-v-man-utd.19394
 development-squad-beat-villareal.17916
 development-squad-currently-facing-vienna.57964
@@ -10364,6 +10377,7 @@ gerrard-from-having-my-doubts-to-convinced.33946
 gerrard-gary-mac-mark-allen.43437
 gerrard-getting-good-press-here-in-italy.47692
 gerrard-gives-injury-updates.37619
+gerrard-global-icon.60875
 gerrard-goals.31510
 gerrard-goldson-press-conference-ufa.42997
 gerrard-goldson-presser-22-08-18.42995
@@ -13121,7 +13135,6 @@ ibrox-and-parkhead-ruled-out-of-hosting-internationals.17954
 ibrox-anfield-atmosphere.31098
 ibrox-as-a-fortress-no-more.9974
 ibrox-at-94-mins-tonight-3-4-full.49454
-ibrox-atmospheres.60850
 ibrox-bar-benidorm.48173
 ibrox-bar-benidorm.52312
 ibrox-bar-benidorm.5705
@@ -15177,6 +15190,7 @@ keith-jackson-not-having-it-that-lawwell-wants-titles.1562
 keith-jackson-racially-stereotyping-morelos.3188
 keith-jackson-raid-on-house-regarding-whyte-takeover.26791
 keith-jackson-tweet.26792
+keith-jackson-twitter.60939
 kelty-amateurs-have-their-own-version-of-gullanes-murder-hill.35139
 kemar-roofe.42905
 ken-bruce-style-games-of-my-years.18671
@@ -15762,6 +15776,7 @@ latest-injury-news-r-e-mccrorie-dorrans.20214
 latest-injury-update-from-pedro.5459
 latest-live-tv-selections-confirmed.55498
 latest-match-review-of-rangers-vs-hamilton-by-foreign-rangers-fan.4781
+latest-morelos-training-pic.60917
 latest-new-season-ticket-deadline.31574
 latest-news-about-the-white-bear.17081
 latest-odds-best-price-for-rangers-manager.11139
@@ -16292,6 +16307,7 @@ live-matches-up-until-the-league-split.6434
 live-premier-league-games-for-dec-jan.50467
 live-press-conference-on-youtube.28863
 live-rangers-tv-on-ipad.38311
+live-star-sixes-soccer-sse-hydro.60935
 live-stream-of-the-team-arriving-at-glasgow-airport.44587
 live-through-one-rangers-goal.33346
 live-update-from-spfl-meeting-re-semi-finals.48579
@@ -17607,6 +17623,7 @@ micah-richards.41490
 michael-ball-interview-everton-podcast.34435
 michael-ball-on-twitter.1931
 michael-beale-a-great-insight-into-his-role-and-philosophy.47786
+michael-beale-blog.60907
 michael-beale-expects-mcauley-to-play-a-big-part-this-season.53492
 michael-beale-interview-now-on-rtv.34482
 michael-beale-interview.59317
@@ -19496,6 +19513,7 @@ nk-osijek-v-rangers-thursday-19-45-premier-sports-rangerstv-tv.38156
 nn10-on-saturday.20168
 no-10-role.40394
 no-action-being-taken-on-sinclair.10881
+no-action-for-morelos-hahahahahha.60902
 no-action-to-be-taken.3874
 no-after-game-reactions-yet.41229
 no-away-fans-on-thursday.42741
@@ -20225,6 +20243,7 @@ on-this-day-january-2nd.60779
 on-this-day-january-30th.17905
 on-this-day-january-31st.18034
 on-this-day-january-3rd.14941
+on-this-day-january-3rd.60874
 on-this-day-january-4th.15031
 on-this-day-january-5th.15139
 on-this-day-january-6th.15232
@@ -23450,6 +23469,7 @@ rangers-player-ratings.36676
 rangers-player-squad-contracts-and-end-times.28439
 rangers-player-valuations.23103
 rangers-players-and-staff-pursued-for-tax-over-ebts.43922
+rangers-players-and-staff-with-honours-from-the-queen.60938
 rangers-players-get-dressed-up-for-halloween.8078
 rangers-players-in-2018-world-cup-possibilities.6453
 rangers-players-in-r-o-i-re-sectarianism.53518
@@ -23579,6 +23599,7 @@ rangers-shop-when-the-board-have-full-control.37836
 rangers-shop-yesterday.9894
 rangers-shop.57972
 rangers-should-appoint-a-managers-committee.7954
+rangers-should-be-cute-here-regarding-alfie-the-refs-and-mhedia.60913
 rangers-should-relaunch-the-teddy-bear-club.46472
 rangers-sign-glenn-midleton.18044
 rangers-sign-kid-from-linfield.45739
@@ -24242,6 +24263,7 @@ recommended-boozer-in-inverness-for-the-game.3417
 record-at-it-again.14832
 record-back-page-mcinnes-will-cost-800k.8293
 record-breakers.11884
+record-hotline.60884
 record-number-of-captains-in-one-season.17240
 record-on-full-cover-up.45363
 record-player-ratings-for-gers-v-the-sheep.17409
@@ -26882,6 +26904,7 @@ skybet-query-rangers-related.48671
 skybet-super-boost-accumulator-you-cant-lose.15137
 skybet-void-bet.52426
 skys-attitude-towards-scottish-football.11565
+skysports-news-reporting-no-citing-on-morelos.60903
 slating-our-own-players-is-becoming-tiresome.54038
 slaven-bilic.34300
 slaven-billic-finished.6482
@@ -27173,6 +27196,7 @@ song-for-boss.44600
 song-for-candeias.39370
 song-for-connor-goldson.42278
 song-for-daniel-on-sunday.51275
+song-for-defoe.60925
 song-for-dj.20419
 song-for-ejaria.50171
 song-for-james-tavernier.19868
@@ -27924,6 +27948,7 @@ steven-gerrard-describes-bordeaux-bid-for-alfredo-morelos-as-derisory.42081
 steven-gerrard-el-terminador.42376
 steven-gerrard-express-train-are-you-enjoying-the-journey.49410
 steven-gerrard-eyes-west-ham-defender-reece-burke-as-next-rangers-signing.30718
+steven-gerrard-football-icon.60930
 steven-gerrard-getting-to-know-you-getting-to-know-all-about-you.28924
 steven-gerrard-has-given-this-rangers-team-jock-wallaces-character.56518
 steven-gerrard-has-ruined-the-world-cup.34025
@@ -27984,6 +28009,7 @@ steven-mclean-ref-tonight.56978
 steven-naismith-and-kyle-lafferty.26414
 steven-naismith-now-has-a-job-with-the-bbc.43845
 steven-naismith-set-to-sign-for-kilmarnock.14700
+steven-naismith-the-player.60877
 steven-naismith.44917
 steven-notman-testimonial-berwick-rangers-v-rangers-xi-15-11-17.8131
 steven-notman-testimonial.9410
@@ -28667,6 +28693,7 @@ talksport-jason-cundy.39346
 talksport-my-sporting-life-with-graeme-souness.13964
 talksport-news-sfa-state-gazzas-health-as-one-of-the-reasons-to-pull-the-plug-on-hall-of-fame.50461
 talksport-news-this-morning-wee-dig-at-them.33895
+talksport-not-so-super-computer-predicts-spfl-champions.60893
 talksport-now.41627
 talksport-radio-who-is-bigger-rangers-or-septic.44011
 talksport-right-now.28284
@@ -29661,6 +29688,7 @@ the-grief-windass-gets.20788
 the-grousebeaters-from-nothern-ireland.387
 the-grove-finnieston.44776
 the-growth-of-bf1.42759
+the-guardian-football-weekly-podcast-old-firm-review.60916
 the-gulf-is-there-for-all-to-see.3524
 the-guy-that-does-the-black-n-white-to-colour-on-here.19045
 the-half-time-sub.57043
@@ -29968,6 +29996,7 @@ the-mhedia-imbalance.8096
 the-mhedia-reducing-the-ref-crisis-to-a-gerrard-v-clarke-narrative.46828
 the-mhedia-up-here.20567
 the-miami-casuals-are-coming.42891
+the-mid-season-shutdown.60940
 the-midfield-3.59263
 the-midfield-battle.59965
 the-midfield.37281
@@ -33078,6 +33107,7 @@ we-missed-halliday-yesterday.48990
 we-missed-jamie-murphy-today.52509
 we-missed-mccrorie-and-or-jack-today.18455
 we-missed-morelos.10586
+we-must-hold-onto-morelos.60936
 we-must-take-our-chances-to-win-games-but.58853
 we-must-win-on-saturday.20366
 we-near-the-end-of-our-long-journey.28993

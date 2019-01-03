@@ -305,6 +305,7 @@ a-force-for-good.50394
 a-force-for-good.54257
 a-foreign-film-thread.55003
 a-gift-idea-if-you-are-struggling.58273
+a-good-old-fashioned-customer-complaint.60932
 a-good-old-fashioned-dose-of-the-plague.5165
 a-good-set-of-wireless-headphones.20173
 a-good-winter-jacket-suggestions.44018
@@ -1601,6 +1602,7 @@ astrograss.30453
 astronauts-dna-altered-by-7-after-a-year-in-space.23021
 astronomy-telescope-tips.13962
 astroturf-artificial-grass-companies-glasgow-area.23620
+asus-laptop-problem.60900
 asylum-seeker-rapist-jailed-for-16-years.40201
 at-it-again.32244
 at-last-decisive-action-by-the-rc-church-on-erring-priests.23619
@@ -2522,6 +2524,7 @@ boaby-transplant.27164
 board-games-card-games.58635
 board-games-of-yesteryear.24257
 board-games.52882
+boardgames-of-yesteryear.60897
 boarding-passes-on-the-mobile.37847
 boat-fishing-scotland.4197
 bob-dylan-more-blood-more-tracks.47372
@@ -2881,6 +2884,7 @@ budget-gaming-video-card.17136
 budget-hotels-new-york.35600
 budget-price-phones-from-china.2950
 budgie-bar-%E2%80%93-blochairn.9232
+buenos-aires.60905
 buffet-style-restaurants.12976
 bugner-battling-cancer.28175
 build-a-bear-pay-your-age-chaos.36632
@@ -3169,6 +3173,7 @@ car-crashes-into-the-2nd-floor-of-a-building.16242
 car-damaged-while-i-was-away-what-should-i-do.47961
 car-dealerships-who-to-trust.5440
 car-dent-repair-cambuslang-rutherglen-east-kilbride.29301
+car-dent-repair.60937
 car-door-latch-broken.15447
 car-entertainment-systems.42437
 car-for-the-wife.15144
@@ -3280,6 +3285,7 @@ carol-vorderman-57.35451
 carpal-tunnel-syndrome.13400
 carpal-tunnel-syndrome.59600
 carpet-cleaner-glasgow.33055
+carpet-cleaner-hire-opinions.60933
 carpet-vynil-fitter.10349
 carpet.50280
 carpets-and-flooring-in-glasgow.26842
@@ -3527,6 +3533,7 @@ chinese-and-spectacles.20188
 chinese-army-recruitment-video-versus-ours.15928
 chinese-company-plans-to-launch-%E2%80%98artificial-moon%E2%80%99-in-2020-to-replace-street-lights.51445
 chinese-hot-n-sour-soup-discuss.16100
+chinese-land-probe-on-far-side-of-the-moon.60879
 chinese-man-tortures-dogs-on-live-stream.58958
 chinese-putting-muslims-in-concentration-camps.45178
 chinese-roof-top-climber-dies-after-62-storey-fall.12465
@@ -3646,6 +3653,7 @@ claims-ruc-men-partied-in-back-of-van-used-in-loughgall-sickening-sinn-fein.3015
 clare-tomlinson-sky-sports.33215
 clare-tomlinson.9201
 clarkston-based-bears-with-sons-boys-brigade.43427
+clarkston-house-fire-priest-refuses-to-comnent.60878
 clarkston-multiple-stabbings.40319
 clarty-or-claty.6491
 clash-of-clans-clashers-assemble.83
@@ -3663,6 +3671,7 @@ classical-opera-music-thread.55282
 cleaner-recommendations.15337
 cleaning-a-conservatory-roof.40935
 cleaning-car-alloys.23729
+cleaning-car-seats.60891
 cleaning-ps4.38429
 clearing-out-some-of-my-grandad%E2%80%99s-old-things.56420
 clegs.35493
@@ -3732,6 +3741,7 @@ cohabitation-agreements.6260
 coin-collectors.29268
 coincidences.16692
 cold-flu-anyone-else-got-it.60785
+cold-water-en-suite-tap-not-turning-and-weak-flow.60894
 coldwar_steve-one-of-twitters-finest.35807
 colin-mcrae.51207
 colin-murrays-new-show-on-r2.24817
@@ -5535,6 +5545,7 @@ fire-crews-fight-blaze-at-glasgows-derelict-stobhill-hospital.39014
 fire-hd-8.15623
 fire-in-greenock.59729
 fire-in-nitshill.45703
+fire-linn-park-way.60880
 fire.33239
 firefox-quantum.9468
 firestick-techie-advice-needed.13657
@@ -6180,6 +6191,7 @@ george-osborne.2065
 george-parsonage-formerly-of-the-glasgow-humane-society.5398
 george-rr-martin.54995
 george-soros.15183
+george-square-christmas-lights.60923
 george-square.37707
 george-takei.9108
 george-w-bush-snr-pan-breed.56343
@@ -6671,6 +6683,7 @@ green-tea.2111
 greenfield-bike-thieves.35386
 greenock-1974.46556
 greetings-card-featuring-shannon-matthews-josef-fritzl-and-jimmy-savile.22886
+greggs-launch-vegan-sausage-roll.60898
 gregor-fisher-brings-back-rev-im-jolly-on-hogmanay.59647
 gregory-alan-isakov.47919
 grenfell-inquiry.34883
@@ -7061,6 +7074,7 @@ high-times.47640
 highland-cathedral.19881
 highland-woman-becomes-first-known-person-to-keep-bumblebee-as-a-pet.23358
 highly-suspect.17885
+hill-walking-thread.60885
 hillington-motor-company.44186
 hillwalkers-from-glasgow.60679
 hillwalking-boots.5205
@@ -7994,7 +8008,6 @@ james-bulger-a-mothers-story.19023
 james-bulger-the-new-revelations.54666
 james-dornan-don%E2%80%99t-laugh.25194
 james-dornan-snp-ira.39069
-james-dornan-snp.60826
 james-dornan-to-fight-sectarianism.25192
 james-dornan.37514
 james-gunn-fired-by-disney.37669
@@ -8145,6 +8158,7 @@ johnston-press-owner-of-the-scotsman-goes-into-administration.54928
 johnstone-parade.35387
 joiner-floorfitter-falkirk.57956
 joiner-handyman-required.58488
+joiner-or-flooring-help-needed.60927
 joiner-required-recommendations.24312
 joiner-stirling-area.8221
 joiners-flooring-people-laying-click-vinyl-laminate-in-a-tiny-room.57651
@@ -9158,6 +9172,7 @@ man-v-seagull.24013
 man-van-recommendations-glasgow-southside.55810
 man-viciously-kicks-homeless-person.33176
 man-whos-baws-were-bitten-off-by-a-dug-more-info.53029
+man-wrote-obscene-message-in-christmas-card-to-neighbour.60873
 managers-supervisors-of-the-lounge.25638
 manchester-abod-parade.27812
 manchester-airport-advice.30945
@@ -11096,6 +11111,7 @@ plastic-provos-yessers-and-pro-palestinians-in-glasgow-city-centre-today.27764
 platform-the-arches.22949
 platoon-cd.23514
 play-parks.26741
+playa-blanca-lanzarote-anyone-been.60901
 player-of-the-year-dinner.26720
 playerunknowns-battlegrounds-xbox.12597
 playing-computer-games-is-bad-for-you.38569
@@ -11604,6 +11620,7 @@ put-that-cup-of-tea-down-colonialist.32965
 putting-ancient-recipes-on-the-plate.16946
 putting-cones-around-a-works-van.9957
 putting-image-into-a-post.5972
+putting-things-off-till-after-christmas.60888
 python.23416
 q-for-electrics-or-it-experts-laptop-power.25375
 qanon.26744
@@ -11969,6 +11986,7 @@ redying-adidas-gazelles.16869
 rees-mogg-to-avoid-%C2%A3%C2%A3%C2%A3-pain-after-brexit.33792
 reference-issue-job-offer-withdrawn.22944
 references-from-work.46884
+referring-to-yourself-in-the-third-person.60896
 reformation-europes-holy-war-bbc-2-9pm.4826
 reformation-orange-parade-liverpool-12th-may.29299
 refrigerator-r410a-gas.50835
@@ -12284,6 +12302,7 @@ rowing-club.33617
 roxanne-pallett.37295
 roy-chubby-brown-hamilton-gig-cancelled.27226
 roy-chubby-brown.3110
+roy-orbison-in-dreams.60890
 royal-ascot-today.34367
 royal-ascot-week.34241
 royal-ascot.32817
@@ -13304,6 +13323,7 @@ song-on-fox-advert.36371
 song-title-thread.160
 song-to-the-siren.15311
 song-writers.9271
+songs-that-dont-age-well.60908
 songs-that-grew-on-you.35311
 songs-that-hit-you-right-there.26535
 songs-that-remind-you-of-or-reference-glasgow.38661
@@ -13515,6 +13535,7 @@ stargazing-tonight.4568
 starsailor-19th-nov-old-fruitmarket.54622
 starsky-and-hutch.16769
 starting-a-new-job-realising-your-co-workers-are-not-ideal.34015
+starting-a-vinyl-collection.60910
 starting-every-sentence-with-%E2%80%9Cso%E2%80%9D.50899
 starting-own-buisness.30325
 startup-amazon-prime-show.51415
@@ -14778,6 +14799,7 @@ the-world-going-mad-number.5195
 the-world-in-35-years.60672
 the-world-of-the-selfie.38059
 the-worlds-population-will-hit-10-billion.9073
+the-worst-hotel-you-have-ever-stayed-in-or-holiday-you-have-ever-been-on.60914
 the-worst-tattoos-ever.2479
 the-wrestling-thread-part-4.30
 the-x-files.12745
@@ -15797,6 +15819,7 @@ vw-in-the-mucky-stuff-again.17822
 vw-key-fob.33262
 vw-mk7-golf-rear-pad-replacement.29601
 waccy-baccy-for-arthritic-pain.38398
+waco-madman-or-messiah.60895
 waco.19697
 waco.24594
 wages-query-bacs-payment.31486

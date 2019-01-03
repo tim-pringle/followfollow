@@ -6957,6 +6957,7 @@ david-hagan-just-giving-page.37640
 david-hagen-benefit-5th-october-2018-at-the-louden-tavern-ibrox-stadium.37722
 david-hagen-benefit-match-letsgo.50187
 david-hagen-benefit-match.50116
+david-hagen-charity-golf-day.60852
 david-hagen-diagnosed-with-mnd.37306
 david-hagen-has-motor-neurone-disease.36812
 david-hagen-video.37728
@@ -11373,6 +11374,7 @@ grezda-last-night.55033
 grezda-looking-sharp-in-training.49194
 grezda-middleton-kent.56551
 grezda-on-instagram.54373
+grezda-on-loan.60869
 grezda-penalty-claim.52045
 grezda-playing-this-weekend.54848
 grezda-post-match-intv.58466
@@ -12162,6 +12164,7 @@ help-with-the-official-site.18664
 helping-a-bear-get-his-suitcase-back-flybe-birmingham-on-friday.58515
 helping-fellow-bluenose-out.47189
 helping-the-sheep.18950
+helsinki-friendly-sold-out.60851
 hemdani-coulibaly.52470
 henning-berg.9505
 henrikh-mkhitaryan-and-alexis-sanchez-set-for-swap-deal.16770
@@ -13118,6 +13121,7 @@ ibrox-and-parkhead-ruled-out-of-hosting-internationals.17954
 ibrox-anfield-atmosphere.31098
 ibrox-as-a-fortress-no-more.9974
 ibrox-at-94-mins-tonight-3-4-full.49454
+ibrox-atmospheres.60850
 ibrox-bar-benidorm.48173
 ibrox-bar-benidorm.52312
 ibrox-bar-benidorm.5705
@@ -14866,6 +14870,7 @@ jose-mourinho-the-pantomime-villian.42284
 jose-mourinhos-after-match-interview-was-an-interesting-watch.49748
 jose-quitongo-gary-locke-john-robertson.25760
 jose-taxi-at-the-ready.49106
+josh-maja-out-of-contract-in-the-summer.60871
 josh-maja.58858
 josh-mcpake.51543
 josh-or-barrie.11818
@@ -15894,6 +15899,7 @@ lee-wallace-presser.2092
 lee-wallace-questions-mhedia-about-pedros-treatment.2288
 lee-wallace-straight-into-the-starting-11-v-celtic-at-parkhead-would-you.14178
 lee-wallace-suspension-lifted.32324
+lee-wallace-to-be-handed-chance-to-join-bristol-city.60862
 lee-wallace-to-wigan.49808
 lee-wallace-vs-declan-john.11689
 lee-wallace-wearing-waghorns-jacket.21596
@@ -18381,6 +18387,7 @@ mr-singhs-india.46060
 mr-struth-and-his-great-words.22689
 mr-struth-spying-missions-in-a-taxi.19899
 mrq-pictures.33168
+mrs-gisela-easton-and-the-ibrox-disaster.60853
 mrs-morelos-in-pvc-catsuit-for-halloween.53512
 mrs-morelos.59110
 mrs-tavernier.49230
@@ -23379,6 +23386,7 @@ rangers-new-boy-eros-grezda-will-be-%C2%A320million-player.46005
 rangers-new-kit-sale-date.35758
 rangers-news-10th-march-1976.43120
 rangers-news-18-february-1976.42319
+rangers-news-1950-style.60868
 rangers-news-1976-martin-henderson-breaks-his-teeth-and-report-of-death-of-willie-robb.42682
 rangers-news-21-january-1976.41323
 rangers-news-25-feb-1976.42826
@@ -25268,6 +25276,7 @@ ryan-jack-bet365.60108
 ryan-jack-bood-last-night.45957
 ryan-jack-celebration.59976
 ryan-jack-david-bates-join-scotland-squad.54392
+ryan-jack-doo-doo.60861
 ryan-jack-free-transfer.1298
 ryan-jack-god-loves-a-trier.10531
 ryan-jack-graham-dorrans-ross-mccrorie.20970
@@ -29594,6 +29603,7 @@ the-gerrard-effect-tv.34297
 the-gerrard-effect.28964
 the-gerrard-effect.33616
 the-gerrard-effect.45009
+the-gerrard-effect.60863
 the-gerrard-factor.36825
 the-gerrard-factor.39406
 the-gerrard-revolution.40750

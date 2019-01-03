@@ -5048,6 +5048,7 @@ empty-hendricks-gin-bottles.14848
 emulsion-bubbling-on-wall-behind-shower-feed.35528
 en-suite-renovation.51374
 enable-horse.4655
+enamel-badge-makers.60982
 enchanted-forest-pitlochry.5106
 end-of-days.21639
 end-of-days.56871
@@ -12892,6 +12893,7 @@ shettleston-train-station-closed.34786
 shieldhall-to-prestwick-airport-wednesday-morning-0415-suggestions.55781
 shin-splints.25379
 shindlers-list-25-years-anniversary.57833
+shingles.60981
 shipbuilding-on-the-clyde-evening-times-pics.30140
 shipping-sports-equipment-internationally.36358
 shipping-stuff.24544

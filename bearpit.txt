@@ -964,6 +964,7 @@ a-rarely-remembered-davie-cooper-free-kick-goal.20258
 a-real-good-man-manager.7911
 a-real-opportunity-for-windass.21338
 a-reasonable-punt.56012
+a-referee.61115
 a-reminder-of-how-hearts-slaughtered-the-tims.21830
 a-reminder-of-how-lucky-we-are-not-to-be-like-this.59792
 a-reminder-re-poppy-badges.8417
@@ -2594,6 +2595,7 @@ are-we-fit-enough.3056
 are-we-getting-55.36563
 are-we-getting-a-wee-bit-carried-away.20085
 are-we-giving-hardie-a-chance.19819
+are-we-heading-for-ref-strike-2.61112
 are-we-in-the-cycle-or-espanyolification.28191
 are-we-in-the-final-if-we-beat-corinthians.15883
 are-we-level-headed-enough-to-appreciate-our-progress-with-or-without-the-group-stages.41690
@@ -16023,6 +16025,7 @@ legends-game-shirts-charity-autcions.26547
 legends-game.20457
 legends-lounge-hospitality.29290
 legends-match.23711
+legends-players-i%E2%80%99ve-never-heard-off.23803
 legends-tournament-in-berlin-6th-jan.10189
 legends-who-never-went-to-a-world-cup.32539
 leggo-is-their-main-man-and-must-be-stopped.25740
@@ -18205,6 +18208,7 @@ morelos-top-goalscorer.635
 morelos-top-scorer.14257
 morelos-tunnel-gif-for-download.17502
 morelos-tweet.60208
+morelos-v-cowdenbeath-and-killie.61110
 morelos-v-hibs.58379
 morelos-value-after-last-night.49520
 morelos-vs-demb%C3%A9l%C3%A9-and-edouard.38673
@@ -18213,6 +18217,7 @@ morelos-warned-to-be-careful-by-former-strike-partner.40316
 morelos-went-10-games-without-scoring-earlier-in-the-season.23264
 morelos-when-he-doesnt-score.5795
 morelos-when-not-scoring.20620
+morelos-will-have-an-even-bigger-target-on-his-back-now.61114
 morelos-wind-up-quotes-in-dressing-room-shown-on-tv.54888
 morelos-windass-cummings.19293
 morelos-windass.36671
@@ -22121,6 +22126,7 @@ poland-v-colombia.34794
 poland-vs-italy.50732
 poland-vs-senegal.34292
 police-call-for-weekday-only-derby-matches-in-sheffield.61083
+police-call-for-weekday-only-derby-matches-in-sheffield.61111
 police-check-before-perth.17655
 police-in-gr1-2-in-first-half.60463
 police-incident-copland-road.20509
@@ -27147,6 +27153,7 @@ solanke-a-reason-for.44451
 solanke-having-medical-at-palace.60582
 solanke-not-on-liverpool-bench.41196
 solanke-omitted-from-liverpool-final-friendly.40271
+solanke-replaces-defoe-%C2%A319m-move.61116
 solanke-to-bournemouth-%C2%A319m.61077
 solanke-to-bournemouth-in-%C2%A315m-deal.61078
 solanke-to-palace-off.60816
@@ -33969,7 +33976,6 @@ what-will-the-budget-be.28103
 what-will-the-new-gaffer-need.28564
 what-would-be-revolutionary-in-football.32260
 what-would-be-your-starting-xi.47776
-what-would-be-your-strongest-11-be.61089
 what-would-happened-if-rfc-banned-all-tv-coverage-on-thursday.42893
 what-would-it-cost-to-buy-kent-now.39262
 what-would-it-cost-to-buy-our-loanees-and-would-they-stay.51567

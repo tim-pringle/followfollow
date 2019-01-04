@@ -8,8 +8,8 @@ This repository contains reference information to the following :
 
 At present, the count of posts listed are as follows:
 
-- The Bear Pit: 35751 posts
-The Lounge: 16834 posts
+- The Bear Pit: 35753 posts
+- The Lounge: 16836 posts
 - Heart and Hand : 1271 pods
 - SuperScoreBoard : 359 pods
 
@@ -42,7 +42,7 @@ Rangers TV : https://rangers.co.uk/tv/
 
 Rangers : http://www.rangers.co.uk/
 
-Last updated : 04 January 2019, 21:12:51
+Last updated : 04 January 2019, 21:43:09
 
 
 

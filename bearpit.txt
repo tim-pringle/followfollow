@@ -6149,6 +6149,7 @@ colorado-rapids-sign-danny-wilson.17644
 colourised-version-of-1972-ecwc-final-footage.25030
 colts-teams-in-spfl.16382
 colts-v-tynecastle-and-southampton.4717
+columbia-top.61117
 columbia-tops.58868
 columbia-v-argentina-kick-off-1-00am.46313
 columnist-lied-about-the-billy-boys-at-ni-games.19059
@@ -8724,6 +8725,7 @@ fa-cup-newport-v-leeds.15335
 fa-cup-presentation.30709
 fa-cup-quarter-final-draw.19850
 fa-cup-quiz.54114
+fa-cup-quiz.61118
 fa-cup-replay-spurs-v-rochdale.21120
 fa-cup-replays.16275
 fa-cup-rewind-liverpool-v-west-ham-in-2006-final.30933
@@ -9772,6 +9774,7 @@ friday-night-bet.14356
 friday-night-football.10550
 friday-night-football.3822
 friday-night-football.56280
+friday-night-football.61120
 friday-night-footy-ballinamallard-6-4-cliftonville.17513
 friday-night-live-football.54123
 friday-night-quiz-at-ibrox-the-louden.31612
@@ -23092,6 +23095,7 @@ rangers-bars.53655
 rangers-beach-shirt.37545
 rangers-beach-towels-from-the-80s.31696
 rangers-beanie-hat-help.12755
+rangers-beat-celtic-because-they-were-better-not-because-of-a-conspiracy-james-black.61119
 rangers-behind-the-scenes-trailer.41703
 rangers-best-xi.58595
 rangers-betting-today.52382

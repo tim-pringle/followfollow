@@ -8560,6 +8560,7 @@ larry-carlton.37446
 larry-heard-barras.10753
 larry-nassar-case.16412
 las-piramides-hotel-tenerife.17873
+las-vegas-thread-can%E2%80%99t-find-it.61015
 las-vegas.23801
 las-vegas.32019
 las-vegas.8797
@@ -14159,6 +14160,7 @@ the-british-trad-jazz-boom-of-the-late-1950s.33605
 the-broons-oor-wullie.14047
 the-budget.52628
 the-building-repair-network.27247
+the-captain-cutlass-memorial-sausage-in-steak-pie-thread.61017
 the-celebration-of-mod-culture-thread.15925
 the-charlatans-james-at-the-hydro-clashes-with-game-vs-the-sheep.55624
 the-chase-stv-thursday.22056

@@ -9737,7 +9737,6 @@ free-premier-sports-for-virgin-customers.37671
 free-sanitary-products-for-the-tims.24307
 free-sports-live.15903
 free-standing-chairs-valencias-mestalla-in-the-1930s.14742
-free-tickets-meet-rangers-legends.61036
 free-to-enter-rangers-competition-with-5p0rtz-com.47635
 free-transfers.38570
 free-wee-red-books-for-collectors.20251
@@ -9770,6 +9769,7 @@ friday-training-gallery.44734
 friday-training-gallery.49595
 fridays-back-pages-20-images.57239
 fridays-back-pages-22-images.38417
+fridays-back-pages-22-images.61039
 fridays-back-pages-24-images.35254
 fridays-back-pages-24-images.46546
 fridays-back-pages-24-images.56248
@@ -14534,7 +14534,6 @@ jeff-holmes-book-a-season-to-be-cheerful.7095
 jelavic-what-a-player-he-was-in-the-short-time-we-had-him.47979
 jermain-defoe-awarded-obe-in-birthday-honours-list.33253
 jermain-defoe-on-link-to-rangers.39190
-jermain-defoe-photograph.61026
 jermain-defoe-sky-sports-8-30pm-celebration-of-his-goals.30985
 jermain-defoe.60818
 jermaine-jenas-comment-on-bt.44482
@@ -22084,7 +22083,6 @@ please-support-david-hagen-the-louden-tavern-5th-october.45723
 please-support-former-rangers-player-david-hagen.37991
 please-support-paul-gascoigne%E2%80%99s-nomination-to-the-scottish-hof.50482
 plumber-needed-inverclyde.880
-plus-1.61033
 plymouth-argyle-or-celtic-which-is-the-bigger-club.10812
 plz-soccer-at-the-wind-up-surely.39142
 podcast-question.60765
@@ -28751,6 +28749,7 @@ talksport-news-sfa-state-gazzas-health-as-one-of-the-reasons-to-pull-the-plug-on
 talksport-news-this-morning-wee-dig-at-them.33895
 talksport-not-so-super-computer-predicts-spfl-champions.60893
 talksport-now.41627
+talksport-pundit-putting-down-raging-tim.61041
 talksport-radio-who-is-bigger-rangers-or-septic.44011
 talksport-right-now.28284
 talksport-right-now.6948
@@ -29000,6 +28999,7 @@ teddies-in-the-south-china-morning-post.37479
 teddy-bear-song-by-barbara-fairchild.8283
 telegraph-claiming-we-%E2%80%98showed-an-interest%E2%80%99-in-charlie-adam.41466
 telegraph-fantasy-football-league-season-2018-19.37698
+telegraph-rangers-fans-could-help-fund-transfers-in-return-for-seat-on-the-board.61042
 televised-scottish-cup-games.57692
 tell-me-about-davie-cooper.55009
 tell-me-more-about-max-murray.16773
@@ -29772,7 +29772,6 @@ the-honest-men-v-the-teddy-bears-score-prediction.18913
 the-honeymoon-is-over.10482
 the-honeymoon-may-be-over%E2%80%A6%E2%80%A6.52911
 the-honour-of-representing-your-country-two-great-war-footballers.54799
-the-huddleboard.61010
 the-humble-throw-in.57234
 the-hummel-training-centre-pitch-looking-beautiful.34963
 the-hummel-training-centre-tours.34289

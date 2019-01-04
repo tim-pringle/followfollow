@@ -8322,6 +8322,7 @@ epl-clubs-with-these-approved-fan-banners.49125
 epl-domestic-tv-payment-for-the-season-just-gone.30901
 epl-february-2019-matches-for-live-broadcast-changes-announced.58539
 epl-february-matches-for-live-broadcast-announced.13622
+epl-fitness-levels.61004
 epl-fixtures-out.33745
 epl-hat-trick-scorer-quiz.23968
 epl-madness.40046
@@ -21441,6 +21442,7 @@ paul-john-gascoigne.50496
 paul-lambert-appointed-stoke-city-boss.16146
 paul-lambert-i-think-it-was-the-worst-decision-to-demote-rangers-three-leagues.13271
 paul-lamberts-teeth-punishment-for-being-a-turncoat.29726
+paul-larkin-anyone-but-celtic-etc.61003
 paul-mcgowan-arrested-again.30535
 paul-mcgowan-ex-celtic-escapes-jail-again.37101
 paul-mcgowan-pleads-guilty-to-spitting-on-bouncer-outside-city-nightclub.33046

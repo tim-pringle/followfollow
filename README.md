@@ -4,7 +4,7 @@ This repository contains an unofficial listing of threads feature in the forums 
 
 At present, the count of posts listed are as follows
 
-The Bear Pit: 35678 posts
+The Bear Pit: 35681 posts
 
 The Lounge: 16800 posts
 
@@ -38,4 +38,4 @@ Rangers TV : https://rangers.co.uk/tv/
 
 Rangers : http://www.rangers.co.uk/
 
-Last updated : 04 January 2019, 00:42:15
+Last updated : 04 January 2019, 01:12:23

@@ -4,9 +4,9 @@ This repository contains an unofficial listing of threads feature in the forums 
 
 At present, the count of posts listed are as follows
 
-The Bear Pit: 35685 posts
+The Bear Pit: 35687 posts
 
-The Lounge: 16800 posts
+The Lounge: 16801 posts
 
 Heart and Hand : 1270 pods
 
@@ -38,4 +38,4 @@ Rangers TV : https://rangers.co.uk/tv/
 
 Rangers : http://www.rangers.co.uk/
 
-Last updated : 04 January 2019, 08:12:19
+Last updated : 04 January 2019, 08:42:16

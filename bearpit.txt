@@ -484,6 +484,7 @@
 32red-hit-with-%C2%A32m-penalty-for-sole-problem-gambler.34379
 33-968.21581
 35-games-played-unchanged-team-once.57774
+352-at-ibrox.61060
 352.18847
 35m-alex-oxlade-chamberlain.3030
 36-into-3-55.22060
@@ -6508,6 +6509,7 @@ craig-gordon.21973
 craig-gordon.45897
 craig-gordon.60276
 craig-halkett.48883
+craig-houston.61059
 craig-levein-giving-it-to-timmy.29552
 craig-levein-hits-back-at-derek-mcinnes.59346
 craig-levein-stokes-rangers-referee-row.56805
@@ -12540,7 +12542,6 @@ how-about-big-duncan-ferguson-for-boss.18520
 how-about-this.56807
 how-all-pot-4-clubs-fared-last-night.47633
 how-are-hibs-fans-dealing-with-the-statement.1750
-how-are-the-bournemouth-fans-reacting-to-defoe-leaving.61020
 how-are-we-all-feeling-about-finishing-2nd-now.29207
 how-are-you-getting-away-early-from-work-to-watch-the-game-tomorrow.37121
 how-atl%C3%A9tico-madrid-broke-the-la-liga-duopoly.1837
@@ -13011,6 +13012,7 @@ i-dont-get-the-criticism-of-dorrans.3102
 i-dont-like-this-i-agree-with-neil-lennon.20942
 i-dont-mind-teams-getting-stuck-into-rangers.6711
 i-dont-normally-post-offensive-posts-from-timmy-on-twitter-but-check-the-nick-of-these-two.45198
+i-dont-think-celtic-fans-enjoy-winning.61057
 i-doubted-our-team-could-do-it.60011
 i-enjoyed-that-performance-last-night.17282
 i-expect-ayr-on-wednesday-wont-be-pushovers.48009
@@ -13607,6 +13609,7 @@ in-days-of-old.42935
 in-defence-of-mcinnes.11497
 in-defense-of-all-things-rangers.28113
 in-distress-before-a-ball-was-kicked.33607
+in-every-celtic-minded-home-and-office-across-the-land.61058
 in-florida-and-saw-this-tonight.1970
 in-form-v-reputation.10781
 in-front-of-our-fans-at-their-midden.3599
@@ -27101,6 +27104,7 @@ so-who-leaves-in-january.12792
 so-who-won-poty.28602
 so-whos-eating-a-slice-of-hummel-pie-today.28757
 so-whos-good-enough-to-stay-for-next-year.24477
+so-will-lessons-be-learned.22660
 soapbox-saturday.32503
 soapdodgers-game-at-the-gallant-pioneer-blackpool.14313
 soapdodgers-lawyers-open-the-rule-book-again.41725
@@ -30813,6 +30817,7 @@ they-are-so-much-fitter-than-us-why.22478
 they-beat-us-simple-as.45195
 they-can-never-get-things-right-at-west-ham-jeff-turner-cockney-rejects.33433
 they-cant-stand-the-banter-years.28196
+they-could-have-led-to-cards-but.61063
 they-dont-want-any-tickets-anyway.31946
 they-have-no-shame.1501
 they-just-cant-help-themselves.41711

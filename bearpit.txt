@@ -2168,6 +2168,7 @@ any-courtroom-activity-from-ashley.48021
 any-cultural-evenings-in-the-glasgow-area-on-saturday.6431
 any-deals-on-bt-sports.53863
 any-decent-bets-tonight.19613
+any-else-seeing-rumours-of-shinnie-signing-a-pre-contract.61091
 any-epl-fantasy-leagues-on-the-go.40836
 any-finnart-boys-on.22196
 any-genuine-bluenose-pubs-in-edinburgh.11346
@@ -2318,6 +2319,7 @@ anyone-been-to-gdansk.711
 anyone-been-to-hertha-berlin.25102
 anyone-been-watching-games-on-eleven-sports.44947
 anyone-bussing-it.34534
+anyone-but-celtic-film-by-paul-larkin.61071
 anyone-buying-a-samsung-hold-off.751
 anyone-done-or-got-stats-on-selliks-preferential-treatment-over-last-decade-or-less.56686
 anyone-driving-on-friday.5582
@@ -4295,6 +4297,7 @@ bobby-madden.34285
 bobby-midden.14499
 bobby-moore.20480
 bobby-parks-lynsey-glen-new-cd.54343
+bobby-robson-on-netflix.61086
 bobby-russell-q-a-from-shoot-magazine.22644
 bobby-shearer-rangers-news-december-1st-1971.20697
 bobby-watson.21908
@@ -4651,6 +4654,7 @@ brown-and-griffiths.60324
 brown-and-lustig-mocking-caixinha.3657
 brown-and-rogers.60035
 brown-armstrong-rogic.24619
+brown-attempt-to-kick-morelos.61094
 brown-brogues-between-the-lines.30811
 brown-constantly-playing-the-victim.60580
 brown-elbowing-video.3739
@@ -5476,6 +5480,7 @@ celtics-away-group-record-in-europe.52108
 celtics-deck-of-cards.56802
 celtics-fixtures-in-january.58481
 celtics-game-in-hand.58513
+celtics-meltdown.61106
 celtics-pesky-pensioners.40546
 celtics-post-match-song-celebrations.45375
 celtics-rail-seating-section-st.35988
@@ -6499,6 +6504,7 @@ craig-bellamy-on-rangers.28622
 craig-brown.50726
 craig-bryson.59482
 craig-burley-made-to-look-like-a-buffoon.34155
+craig-gordon-%E2%80%98cheats%E2%80%99-and-claims-morelos-kicked-him-in-the-head-34-min.61100
 craig-gordon-compensation-claim.19240
 craig-gordon-disrespectful-at-the-minutes-silence.60569
 craig-gordon-on-sinclair-going-down.11298
@@ -10939,6 +10945,7 @@ goals-from-outside-box.2549
 goals-from-outside-of-the-box.53081
 goals-from-yesterday.53348
 goals-gaffes-and-out-takes-compliation-from-the-late-90s.55770
+goals-per-minutes-played.11111
 goals-scored-from-corners-this-season.23305
 goals-scored-midfield-contribution.52968
 goals-scored.8455
@@ -14537,6 +14544,7 @@ jean-pierre-adams-the-player-who-never-woke-up.22633
 jeanette-findlay-accuses-police-scotland-of-phone-tapping.50701
 jeff-holmes-book-a-season-to-be-cheerful.7095
 jelavic-what-a-player-he-was-in-the-short-time-we-had-him.47979
+jermain-defoe-and-steven-davis-amazing-signings-harry-redknapp.61084
 jermain-defoe-awarded-obe-in-birthday-honours-list.33253
 jermain-defoe-on-link-to-rangers.39190
 jermain-defoe-sky-sports-8-30pm-celebration-of-his-goals.30985
@@ -15887,6 +15895,7 @@ league-table.12806
 league-table.49719
 league-table.697
 league-tables.698
+league-title.61104
 league-titles-arent-won-in-december.56426
 league-winning-games.27747
 leaked-email-from-police-scotland-confirms-celtic-fcs-disregard-for-safety-of-rangers-fans.59768
@@ -16014,7 +16023,6 @@ legends-game-shirts-charity-autcions.26547
 legends-game.20457
 legends-lounge-hospitality.29290
 legends-match.23711
-legends-players-i%E2%80%99ve-never-heard-off.23803
 legends-tournament-in-berlin-6th-jan.10189
 legends-who-never-went-to-a-world-cup.32539
 leggo-is-their-main-man-and-must-be-stopped.25740
@@ -17579,6 +17587,7 @@ mentality-or-ability.3690
 mentality.44970
 mentally-weak-and-beat-before-ko.27987
 mentally-weak-both-in-the-dugout-and-on-the-park.22480
+mercedes-junior-cup-live-tomorrow-on-rtv.61072
 merchandise-deal.29102
 merchandise-idea.40409
 merchandise-of-sales-to-club.58930
@@ -19553,7 +19562,6 @@ nk-osijek-v-rangers-thursday-19-45-premier-sports-rangerstv-tv.38156
 nn10-on-saturday.20168
 no-10-role.40394
 no-action-being-taken-on-sinclair.10881
-no-action-for-morelos-hahahahahha.60902
 no-action-to-be-taken.3874
 no-after-game-reactions-yet.41229
 no-away-fans-on-thursday.42741
@@ -22112,6 +22120,7 @@ poker-stars-uk.971
 poland-v-colombia.34794
 poland-vs-italy.50732
 poland-vs-senegal.34292
+police-call-for-weekday-only-derby-matches-in-sheffield.61083
 police-check-before-perth.17655
 police-in-gr1-2-in-first-half.60463
 police-incident-copland-road.20509
@@ -22558,6 +22567,7 @@ pronunciation-of-hummel.29986
 proof-about-2008.46966
 proper-one-for-the-older-bear.4576
 proper-winter-football.16097
+prophet-dave-king.61107
 proposal-for-a-railway-station-at-ibrox.26771
 proposal-for-parking-restrictions-on-match-days-released.27616
 proposed-parking-changes-at-ibrox-query.36601
@@ -22937,6 +22947,7 @@ raman-on-stv.44452
 raman-on-twitter.34553
 ramones-beat-on-a-brat-scottish-football-style.373
 ramsays-football-nightmares-starring-mike-ashleys-newcastle-united.45691
+ramsey-to-juventus-pre-contract.61080
 rancid-paper-at-it-again.42103
 random-football-bets-youve-won.620
 random-free-kick-thread.43569
@@ -23448,6 +23459,7 @@ rangers-must-decide-if-dave-king-is-harming-club-with-his-continual-court-battle
 rangers-must-harness-north-american-support-after-appointing-steven-gerrard-as-boss.31555
 rangers-need-a-captain.29649
 rangers-need-seige-mentality.3990
+rangers-need-to-do-this-rangers-need-to-say-that-rangers-need-to-point-out-this.61108
 rangers-needing-new-businesses-to-be-advertised-sponsor-the-club.24004
 rangers-never-in-a-million-years.9241
 rangers-new-boy-eros-grezda-will-be-%C2%A320million-player.46005
@@ -24380,6 +24392,7 @@ ref-watch-thomson.54342
 ref-watch-what-a-novel-idea.8013
 ref-watch.56679
 ref-watch.60574
+ref-watch.61109
 referee-allegiance-question.53311
 referee-andrew-dallas-and-tims-matches.5938
 referee-announced-for-scottish-cup-semi-final-v-them.24941
@@ -26026,6 +26039,7 @@ scum-semi-final-2016-montage.25327
 scum-since-1875.30274
 scum-song-book-today.6567
 scum-statement-on-cup-semi-decision.49218
+scum-statement-on-no-action-against-morelos.61090
 scum-subs.60435
 scum-sun.21737
 scum-there-for-the-taking-next-week.25244
@@ -26809,6 +26823,7 @@ since-brendan-became-the-manager-of-them.26069
 since-caixinha-was-sacked.12392
 since-douglas-park-became-deputy-chairman.31578
 since-howard-wilkinson-won-the-top-division-in-england.9369
+since-our-last-big-trophy.61069
 since-pedro-left.27136
 since-pedros-gone-hows-the-feeling.8289
 since-the-kenny-miller-drama-started.7141
@@ -27132,6 +27147,8 @@ solanke-a-reason-for.44451
 solanke-having-medical-at-palace.60582
 solanke-not-on-liverpool-bench.41196
 solanke-omitted-from-liverpool-final-friendly.40271
+solanke-to-bournemouth-%C2%A319m.61077
+solanke-to-bournemouth-in-%C2%A315m-deal.61078
 solanke-to-palace-off.60816
 solanke-today-v-denmark-u21s.55265
 solanke-u21s-eng-vs-ita.54815
@@ -28760,6 +28777,7 @@ talksport-news-sfa-state-gazzas-health-as-one-of-the-reasons-to-pull-the-plug-on
 talksport-news-this-morning-wee-dig-at-them.33895
 talksport-not-so-super-computer-predicts-spfl-champions.60893
 talksport-now.41627
+talksport-on-defoe-at-5pm.61082
 talksport-pundit-putting-down-raging-tim.61041
 talksport-radio-who-is-bigger-rangers-or-septic.44011
 talksport-right-now.28284
@@ -30346,6 +30364,7 @@ the-really-big-news-from-the-match.45434
 the-reason-candeias-was-great-tonight.39295
 the-reason-for-the-delay.10667
 the-reception-these-players-get-at-next-game.28335
+the-record-hotline.61085
 the-recruitment-panel-who-picked-caixinha.7151
 the-red-3rd-european-kit-1996-97.17490
 the-red-lion-vienna.57256
@@ -33950,6 +33969,7 @@ what-will-the-budget-be.28103
 what-will-the-new-gaffer-need.28564
 what-would-be-revolutionary-in-football.32260
 what-would-be-your-starting-xi.47776
+what-would-be-your-strongest-11-be.61089
 what-would-happened-if-rfc-banned-all-tv-coverage-on-thursday.42893
 what-would-it-cost-to-buy-kent-now.39262
 what-would-it-cost-to-buy-our-loanees-and-would-they-stay.51567
@@ -35356,6 +35376,7 @@ would-you-buy-this.28660
 would-you-end-the-farce-now.26023
 would-you-ever-have-signed-for-them.11821
 would-you-give-hardie-a-new-contract.25095
+would-you-give-st-brendan-the-cheque-book.61081
 would-you-go-3-at-the-back-this-weekend.2973
 would-you-have-taken-this-at-start-of-the-year.59749
 would-you-like-a-return-to-two-cl-group-stages.47239

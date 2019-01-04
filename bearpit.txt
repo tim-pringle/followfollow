@@ -20846,6 +20846,7 @@ our-44-game-unbeaten-run-versus-their-69-game-unbeaten-run.13263
 our-49th-title-99-00.28096
 our-4th-friday-night-game-tonight-the-stats-so-far.10398
 our-4th-goal-yesterday-and-moving-forward.20043
+our-5-stars-above-the-club-crest.61005
 our-abysmal-form-at-ibrox.18428
 our-achievement.49375
 our-actual-problem-not-these-made-up-ones.57518
@@ -35586,7 +35587,6 @@ youth-cup-drawn-against-them-if-we-beat-st-johnstone.13351
 youth-cup-match-next-tuesday-at-st-johnstone.15438
 youth-cup-thursday-afternoon-2pm.16975
 youth-cup-v-st-johnstone.17331
-youth-game-v-man-united-tomorrow.19525
 youth-kids-all-sizes.56979
 youth-players-at-florida-cup.15219
 youth-players-next-season.30052

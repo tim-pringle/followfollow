@@ -10939,7 +10939,6 @@ goals-from-outside-box.2549
 goals-from-outside-of-the-box.53081
 goals-from-yesterday.53348
 goals-gaffes-and-out-takes-compliation-from-the-late-90s.55770
-goals-per-minutes-played.11111
 goals-scored-from-corners-this-season.23305
 goals-scored-midfield-contribution.52968
 goals-scored.8455
@@ -27666,6 +27665,7 @@ squad-for-2018-19.32951
 squad-for-next-season.23458
 squad-getting-close-to-fully-fit.6141
 squad-harmony.42650
+squad-jiggery-pokery.61066
 squad-mental-strength-regardless-of-result.47319
 squad-needs-trimmed.55922
 squad-number-geek-thread.40550
